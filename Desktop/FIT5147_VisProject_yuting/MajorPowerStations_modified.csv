@@ -1,0 +1,490 @@
+name,class,primary_fuel_type,generation_MW,generator_number,suburb,state,longitude,latitude,generation_type
+Repulse,Renewable,Water,28,1,Ouse,Tasmania,146.64696,-42.507695,Hydroelectric (Gravity)
+Gordon,Renewable,Water,432,3,Southwest,Tasmania,145.9828322,-42.74051814,Hydroelectric (Gravity)
+John Butters,Renewable,Water,144,1,Queenstown,Tasmania,145.5344768,-42.15483458,Hydroelectric (Gravity)
+Tribute,Renewable,Water,82.8,1,West Coast,Tasmania,145.6538199,-41.81287029,Hydroelectric (Gravity)
+Bastyan,Renewable,Water,79.9,1,Tullah,Tasmania,145.532112,-41.735983,Hydroelectric (Gravity)
+Reece,Renewable,Water,238,2,West Coast,Tasmania,145.1359484,-41.72376958,Hydroelectric (Gravity)
+Mackintosh,Renewable,Water,79.9,1,Tullah,Tasmania,145.6461186,-41.69974974,Hydroelectric (Gravity)
+Cethana,Renewable,Water,85,1,Cethana,Tasmania,146.1342527,-41.48057641,Hydroelectric (Gravity)
+Wilmot,Renewable,Water,81.6,1,Cethana,Tasmania,146.125073,-41.483312,Hydroelectric (Gravity)
+Devils Gate,Renewable,Water,60,1,Barrington,Tasmania,146.263167,-41.350467,Hydroelectric (Gravity)
+Paloona,Renewable,Water,28,1,Barrington,Tasmania,146.2489641,-41.28261605,Hydroelectric (Gravity)
+Bell Bay (Bell Bay Three),Non Renewable,Natural Gas,115,3,Bell Bay,Tasmania,146.9029975,-41.14289636,Open Cycle Gas Turbine
+Trevallyn,Renewable,Water,80,4,Trevallyn,Tasmania,147.1118721,-41.42263297,Hydroelectric (Gravity)
+Poatina,Renewable,Water,100,6,Poatina,Tasmania,146.9190376,-41.81157271,Hydroelectric (Gravity)
+Lake Echo,Renewable,Water,32.4,1,Dee,Tasmania,146.6206993,-42.25370224,Hydroelectric (Gravity)
+Codrington Wind Farm,Renewable,Wind,18.2,14,Codrington,Victoria,141.9547287,-38.28351623,Wind Turbine
+Yambuk Wind Farm,Renewable,Wind,30,20,Yambuk,Victoria,142.0151309,-38.30793848,Wind Turbine
+Macarthur Wind Farm,Renewable,Wind,420,140,MacArthur,Victoria,142.1865101,-38.00752684,Wind Turbine
+Mortlake,Non Renewable,Natural Gas,566,2,Mortlake,Victoria,142.6674789,-38.06316932,Open Cycle Gas Turbine
+Mt Mercer Wind Farm,Renewable,Wind,131,,Mount Mercer,Victoria,143.8757632,-37.84316966,Wind Turbine
+Waubra Wind Farm,Renewable,Wind,192,128,Waubra,Victoria,143.6037302,-37.35746218,Wind Turbine
+Challicum Hills Wind Farm,Renewable,Wind,52.5,35,Buangor,Victoria,143.1123055,-37.38927506,Wind Turbine
+Shepparton Biogas Generation Plant,Renewable,Biogas,1.1,,Shepparton North,Victoria,145.3789833,-36.32177516,Spark Ignition Reciprocating Engine
+Dartmouth (Mount Beauty Hydro Scheme),Renewable,Water,150,1,Dartmouth,Victoria,147.5205799,-36.55642936,Hydroelectric (Gravity)
+Banimboola,Renewable,Water,12.85,2,Dartmouth,Victoria,147.4593781,-36.53439682,Hydroelectric (Gravity)
+Lake William Hovell,Renewable,Water,2,1,Cheshunt South,Victoria,146.392106,-36.91293685,Hydroelectric (Gravity)
+Eildon,Renewable,Water,120,4,Eildon,Victoria,145.9214524,-37.22200533,Hydroelectric (Gravity)
+Laverton North,Non Renewable,Natural Gas,312,2,Laverton North,Victoria,144.788711,-37.84158,Open Cycle Gas Turbine
+Newport,Non Renewable,Natural Gas,500,1,Newport,Victoria,144.894197,-37.841462,Steam Subcritical
+Claytons,Renewable,Biogas,11,11,Clayton South,Victoria,145.118722,-37.9502,Spark Ignition Reciprocating Engine
+Springvale,Renewable,Biogas,4.2,6,South,Victoria,145.139635,-37.973297,Spark Ignition Reciprocating Engine
+Hallam Road,Renewable,Biogas,8.984,2,Hampton Park,Victoria,145.2699497,-38.05345276,Spark Ignition Reciprocating Engine
+Yallourn,Non Renewable,Coal,1480,4,Yallourn,Victoria,146.342783,-38.177015,Steam Subcritical
+Jeeralang B,Non Renewable,Natural Gas,228,3,Hazelwood North,Victoria,146.424923,-38.274626,Open Cycle Gas Turbine
+Jeeralang A,Non Renewable,Natural Gas,204,4,Hazelwood North,Victoria,146.426296,-38.275325,Open Cycle Gas Turbine
+Loy Yang A,Non Renewable,Coal,2180,4,Loy Yang,Victoria,146.574569,-38.2536,Steam Subcritical
+Loy Yang B,Non Renewable,Coal,1000,2,Loy Yang,Victoria,146.58637,-38.256447,Steam Subcritical
+Valley (Peaking Facility),Non Renewable,Natural Gas,300,6,Loy Yang,Victoria,146.589166,-38.253622,Open Cycle Gas Turbine
+Bairnsdale,Non Renewable,Natural Gas,94,2,Bairnsdale,Victoria,147.5639295,-37.8428595,Open Cycle Gas Turbine
+Yarrawonga,Renewable,Water,9,2,Yarrawonga,Victoria,145.9994615,-36.00940982,Hydroelectric (Gravity)
+Hume,Renewable,Water,70,2,Lake Hume Village,New South Wales,147.0326223,-36.10661854,Hydroelectric (Gravity)
+Canunda Wind Farm,Renewable,Wind,46,23,German Flat,South Australia,140.4033113,-37.76025336,Wind Turbine
+Snuggery,Non Renewable,Natural Gas,63,3,Millicent,South Australia,140.4155575,-37.66455062,Open Cycle Gas Turbine
+Dry Creek,Non Renewable,Natural Gas,156,3,Port Adelaide,South Australia,138.581758,-34.847463,Open Cycle Gas Turbine
+Torrens Island A,Non Renewable,Natural Gas,480,4,Port Adelaide,South Australia,138.521322,-34.806844,Steam Subcritical
+Torrens Island B,Non Renewable,Natural Gas,800,4,Port Adelaide,South Australia,138.52262,-34.805171,Steam Subcritical
+Osborne,Non Renewable,Natural Gas,180,2,Osborne,South Australia,138.507884,-34.798021,Combined Cycle Gas Turbine
+Pelican Point,Non Renewable,Natural Gas,478,3,Port Adelaide,South Australia,138.505325,-34.764972,Combined Cycle Gas Turbine
+Quarantine,Non Renewable,Natural Gas,224,5,Port Adelaide,South Australia,138.522352,-34.779284,Open Cycle Gas Turbine
+Angaston,Non Renewable,Distillate,50,30,Angaston,South Australia,139.0245702,-34.50344259,Compression Reciprocating Engine
+Waterloo Wind Farm,Renewable,Wind,111,37,Tothill Belt,South Australia,138.9109315,-34.00102479,Wind Turbine
+Wattle Point Wind Farm,Renewable,Wind,90.75,55,Edithburgh,South Australia,137.7166175,-35.1213549,Wind Turbine
+Mintaro,Non Renewable,Natural Gas,90,1,Stanley,South Australia,138.7383,-33.9031,Open Cycle Gas Turbine
+Hallett 1 Brown Hill  Wind Farm,Renewable,Wind,94.5,45,Belalie East,South Australia,138.7323317,-33.33973358,Wind Turbine
+Hallett,Non Renewable,Natural Gas,228.3,12,Hallett,South Australia,138.751659,-33.348652,Open Cycle Gas Turbine
+Hallett 2 Hallet Hill  Wind Farm,Renewable,Wind,71.4,34,Booborowie,South Australia,138.8551598,-33.52260244,Wind Turbine
+Port Lincoln,Non Renewable,Distillate,73.5,3,Boston,South Australia,135.8044238,-34.70033444,Open Cycle Gas Turbine
+Cathedral Rocks Wind Farm,Renewable,Wind,66,33,Sleaford,South Australia,135.585172,-34.850861,Wind Turbine
+Channel Island,Non Renewable,Natural Gas,310,9,Channel Island,Northern Territory,130.866587,-12.554993,Gas Turbine
+Weddell,Non Renewable,Natural Gas,86,2,Wickham,Northern Territory,130.9502236,-12.57713222,Open Cycle Gas Turbine
+Ord River,Renewable,Water,30,4,Lake Argyle,Western Australia,128.738325,-16.120132,Hydroelectric (Gravity)
+Muja D,Non Renewable,Coal,454,2,Muja,Western Australia,116.3074283,-33.4463574,Steam Subcritical
+Kemerton,Non Renewable,Natural Gas,260.9,2,Wellesley,Western Australia,115.78054,-33.16325,Open Cycle Gas Turbine
+Pinjar,Non Renewable,Natural Gas,576,9,Pinjar,Western Australia,115.820403,-31.556798,Gas Turbine
+Emu Downs Wind Farm,Renewable,Wind,79.2,48,Nambung,Western Australia,115.376754,-30.488191,Wind Turbine
+Collie A,Non Renewable,Coal,340,1,Palmer,Western Australia,116.261165,-33.342181,Steam Subcritical
+Collie (Bluewaters),Non Renewable,Coal,416,2,Palmer,Western Australia,116.229,-33.331,Steam Subcritical
+Wagerup,Non Renewable,Natural Gas,380,4,Wagerup,Western Australia,115.918647,-32.916017,Gas Turbine
+Kwinana Cogeneration,Non Renewable,Natural Gas,123,2,Kwinana Beach,Western Australia,115.766121,-32.222532,Cogeneration
+Kwinana High Efficiency Gas Turbine Plant,Non Renewable,Natural Gas,200,2,Naval Base,Western Australia,115.7753769,-32.19729543,Gas Turbine
+Kwinana A,Non Renewable,Coal,240,2,Naval Base,Western Australia,115.7751521,-32.1979529,Steam Subcritical
+Kwinana C,Non Renewable,Coal,184,2,Naval Base,Western Australia,115.7747022,-32.19922939,Steam Subcritical
+Cockburn,Non Renewable,Natural Gas,240,2,Naval Base,Western Australia,115.773679,-32.200119,Combined Cycle Gas Turbine
+Kalgoorlie (Parkeston),Non Renewable,Natural Gas,110,3,Parkeston,Western Australia,121.506543,-30.73781,Open Cycle
+Collgar Wind Farm,Renewable,Wind,206,111,Norpa,Western Australia,118.4565685,-31.54317741,Wind Turbine
+Merredin,Non Renewable,Gas,82,2,Merredin,Western Australia,118.2269979,-31.54231385,Open Cycle Gas Turbine
+Mungarra,Non Renewable,Natural Gas,112,3,West Casuarinas,Western Australia,115.1176989,-28.88931129,Gas Turbine
+Geraldton,Non Renewable,Natural Gas,21,1,Woorree,Western Australia,114.648482,-28.770107,
+Paraburdoo,Non Renewable,Natural Gas,155,4,Innawanga,Western Australia,117.613267,-23.2232601,
+Dampier,Non Renewable,Natural Gas,120,3,Dampier,Western Australia,116.721904,-20.647985,Steam Turbine
+Yurralyi Maya (Karratha Seven Mile),Non Renewable,Natural Gas,180,4,Maitland,Western Australia,116.742,-20.762,
+Wonthaggi Wind Farm,Renewable,Wind,12,6,Wonthaggi,Victoria,145.546167,-38.603736,Wind Turbine
+Walkaway Wind Farm,Renewable,Wind,90,54,Walkaway,Western Australia,114.9281583,-28.92285117,Wind Turbine
+Cullerin Range Wind Farm,Renewable,Wind,30,15,Gunning,New South Wales,149.4001296,-34.80498162,Wind Turbine
+Snowtown North,Renewable,Wind,148,47,Snowtown,South Australia,138.1470884,-33.72152007,Wind Turbine
+Cape Bridgewater Wind Farm,Renewable,Wind,58,29,Cape Bridgewater,Victoria,141.385044,-38.357655,Wind Turbine
+Barcaldine (Len Wishaw),Non Renewable,Natural Gas,37,1,Barcaldine,Queensland,145.3141861,-23.55245184,Combined Cycle Gas Turbine
+Bluff Point (Woolnorth) Wind Farm,Renewable,Wind,65,37,Woolnorth,Tasmania,144.686919,-40.720674,Wind Turbine
+Studland Bay (Woolnorth) Wind Farm,Renewable,Wind,75,25,Woolnorth,Tasmania,144.736204,-40.778754,Wind Turbine
+The Drop,Renewable,Water,3,1,Berrigan,New South Wales,145.783725,-35.604347,Hydroelectric (Gravity)
+Pindari,Renewable,Water,6.7,2,Ashford (Severn River),New South Wales,151.244202,-29.388626,Hydroelectric (Gravity)
+Nieterana,Renewable,Water,2.2,1,Derwent River,Tasmania,146.262883,-42.26858672,Hydroelectric (Gravity)
+Oakland Hills Wind Farm,Renewable,Wind,67,32,Glentompson,Victoria,142.5467248,-37.6870595,Wind Turbine
+Tatura Biogas Generation Plant,Renewable,Biogas,1.1,,Tatura,Victoria,145.235026,-36.479261,Spark Ignition Reciprocating Engine
+Jindabyne Dam Mini Hydro,Renewable,Water,1.1,1,Jindabyne,New South Wales,148.6332501,-36.43514967,Hydroelectric (Gravity)
+North Brown Hill  Wind Farm,Renewable,Wind,132.3,63,Hallett North Brown Hill,South Australia,138.7295955,-33.30925994,Wind Turbine
+Clements Gap Wind Farm,Renewable,Wind,57,27,"Merriton, Port Broughton",South Australia,138.1191752,-33.50856771,Wind Turbine
+Wyangala A,Renewable,Water,20,1,Cowra (Lachlan River),New South Wales,148.947306,-33.980989,Hydroelectric (Gravity)
+Blayney Wind Farm,Renewable,Wind,9.9,15,Blayney,New South Wales,149.19821,-33.62189,Wind Turbine
+Woodlawn Wind Farm,Renewable,Wind,48,23,Tarago,New South Wales,149.5716058,-35.0860597,Wind Turbine
+Woodlawn Bioreactor,Renewable,Biogas,7,7,Tarago,New South Wales,149.576905,-35.05900246,Spark Ignition Reciprocating Engine
+West Nowra (Shoalhaven),Renewable,Biogas,1,1,Nowra,New South Wales,150.551485,-34.881978,Compression Reciprocating Engine
+Tumut 3,Renewable,Water,1500,6,Talbingo Dam (Tumut River),New South Wales,148.2916846,-35.61121773,Hydroelectric (Gravity)
+Summerhill,Renewable,Biogas,2.2,2,Wallsend,New South Wales,151.642954,-32.888533,Spark Ignition Reciprocating Engine
+Mugga Lane,Renewable,Biogas,3.5,3,Hume,Australian Capital Territory,149.14582,-35.395304,Spark Ignition Reciprocating Engine
+Lucas Heights II,Renewable,Biogas,16,11,Lucas Heights,New South Wales,150.973882,-34.048146,Spark Ignition Reciprocating Engine
+Lucas Heights I,Renewable,Biogas,5.39,5,Lucas Heights,New South Wales,151.002072,-34.029302,Spark Ignition Reciprocating Engine
+Jounama,Renewable,Water,14,1,Talbingo,New South Wales,148.3055166,-35.5619651,Hydroelectric (Gravity)
+Jacks Gully,Renewable,Biogas,2.3,2,Narellan,New South Wales,150.742689,-34.07344,Spark Ignition Reciprocating Engine
+Gunning,Renewable,Wind,47,31,Gunning,New South Wales,149.3861257,-34.69773447,Wind Turbine
+Grange Avenue,Renewable,Biogas,2,1,Marsden Park,New South Wales,150.831233,-33.702938,Spark Ignition Reciprocating Engine
+Esperance Wind Farm Nine Mile Beach,Renewable,Wind,3.6,6,Esperance,Western Australia,121.77778,-33.89271,Wind Turbine
+Eastern Creek 2,Renewable,Biogas,8.984,7,Eastern Creek,New South Wales,150.861683,-33.812515,Spark Ignition Reciprocating Engine
+Eastern Creek,Renewable,Biogas,5.4,4,Eastern Creek,New South Wales,150.8537017,-33.81415696,Spark Ignition Reciprocating Engine
+Crookwell Wind Farm,Renewable,Wind,4.8,8,Crookwell,New South Wales,149.54248,-34.5165,Wind Turbine
+Capital Hill Wind Farm,Renewable,Wind,140,67,Bungendore,New South Wales,149.5185686,-35.16603062,Wind Turbine
+Burrinjuck Power Station,Renewable,Water,27,3,Yass (Murrumbidgee River),New South Wales,148.583393,-35.00252,Hydroelectric (Gravity)
+Awaba,Renewable,Biogas,1.1,1,Awaba,New South Wales,151.549719,-33.02503,Spark Ignition Reciprocating Engine
+Windy Hill Wind Farm,Renewable,Wind,12,20,Ravenshoe,Queensland,145.5306,-17.5922,Wind Turbine
+Starfish Hill Wind Farm,Renewable,Wind,34.5,23,Cape Jervis,South Australia,138.143238,-35.567765,Wind Turbine
+Pioneer Sugar Mill,Renewable,Biomass,67.8,2,Brandon,Queensland,147.330801,-19.557465,Cogeneration - Steam Subcritical
+Moranbah North,Non Renewable,Natural Gas,45.7,15,Moranbah,Queensland,147.9506554,-21.89665526,Spark Ignition Reciprocating Engine
+Koombooloomba,Renewable,Water,7.3,1,Innisfail,Queensland,145.603362,-17.831284,Hydroelectric (Gravity)
+Invicta Sugar Mill,Renewable,Biomass,150,3,Giru,Queensland,147.106526,-19.516697,Cogeneration - Steam Subcritical
+Wivenhoe,Renewable,Water,4.7,1,Ipswich (Brisbane River),Queensland,152.609153,-27.395212,Hydroelectric (Pumped Storage)
+Terminal Storage,Renewable,Water,2.5,1,Tea Tree Gully Adelaide,South Australia,138.711226,-34.839323,Hydroelectric (Gravity)
+Suncoast Gold Macadamia,Renewable,Biomass,1.5,1,Gympie,Queensland,152.698102,-26.226125,Steam Subcritical
+Rocky Point Sugar Sugar Mill,Renewable,Biomass,30,1,Woongoolba,Queensland,153.327607,-27.733449,Cogeneration - Steam Subcritical
+Mount Millar Wind Farm,Renewable,Wind,70,35,Cowell,South Australia,136.704562,-33.626728,Wind Turbine
+Lake Bonney Stage 2 Wind Farm,Renewable,Wind,159,53,Millicent,South Australia,140.4194991,-37.81489402,Wind Turbine
+Albany Wind Farm,Renewable,Wind,21.6,12,Albany,Western Australia,117.797695,-35.064147,Wind Turbine
+Wyndham,Renewable,Biogas,1,1,Wyndham,Victoria,144.590179,-37.937488,Spark Ignition Reciprocating Engine
+Wollert,Renewable,Biogas,6.738,2,Wollert landfill,Victoria,145.048704,-37.582957,Spark Ignition Reciprocating Engine
+Whitwood Road,Renewable,Biogas,1,1,Ipswich,Queensland,152.823743,-27.659014,Spark Ignition Reciprocating Engine
+Toora Wind Farm,Renewable,Wind,21,12,Toora,Victoria,146.344132,-38.64506,Wind Turbine
+Ti Tree Bioenergy,Renewable,Biogas,3.3,,Willowbank,Queensland,152.659295,-27.680164,Compression Reciprocating Engine
+Roghan Road,Renewable,Biogas,2,1,Fitzgibbon,Queensland,153.03435,-27.338768,Spark Ignition Reciprocating Engine
+Rochedale,Renewable,Biogas,4,4,Rochdale,Queensland,153.123634,-27.559117,Compression Reciprocating Engine
+Plane Creek Sugar Mill,Renewable,Biomass,14,2,Sarina,Queensland,149.215912,-21.428223,Steam Subcritical
+Browns Plains,Renewable,Biogas,2.2,2,Browns Plains,Queensland,153.066346,-27.672131,Spark Ignition Reciprocating Engine
+Brooklyn,Renewable,Biogas,2.83,2,Brooklyn,Victoria,144.831876,-37.817967,Spark Ignition Reciprocating Engine
+Berwick,Renewable,Biogas,7.2,2,Berwick,Victoria,145.266461,-38.119702,Cogeneration - Spark Ignition Reciprocat
+Broadmeadows,Renewable,Biogas,12.2,7,Campbellfield,Victoria,144.966319,-37.687786,Spark Ignition Reciprocating Engine
+Energy Brix,Non Renewable,Coal,195,5,Morwell,Victoria,146.413722,-38.25456,Steam Subcritical
+Lake Glenmaggie,Renewable,Water,4,2,Glenmaggie,Victoria,146.801085,-37.904745,Hydroelectric (Gravity)
+Hazelwood,Non Renewable,Coal,1600,8,Hazelwood,Victoria,146.392263,-38.273103,Steam Subcritical
+Longford,Non Renewable,Natural Gas,31,6,Longford,Victoria,147.1657126,-38.2235817,Open Cycle Gas Turbine
+Mornington,Renewable,Biogas,1,1,Fingal,Victoria,144.855322,-38.391631,Spark Ignition Reciprocating Engine
+Rubicon,Renewable,Water,13.55,1,Rubicon,Victoria,145.86052,-37.32722,Hydroelectric (Gravity)
+Somerton,Non Renewable,Natural Gas,160,4,Somerton,Victoria,144.953077,-37.631822,Open Cycle Gas Turbine
+Symex Port Melbourne,Non Renewable,Natural Gas,5.9,,Port Melbourne,Victoria,144.944365,-37.829794,Open Cycle Gas Turbine
+Bogong (Mount Beauty Hydro Scheme),Renewable,Water,300,8,Bogong,Victoria,147.228034,-36.80546098,Hydroelectric (Gravity)
+Clover,Renewable,Water,30,2,Bogong,Victoria,147.220466,-36.785281,Hydroelectric (Gravity)
+McKay Creek (Mount Beauty Hydro Scheme),Renewable,Water,150,6,Falls Creek,Victoria,147.234542,-36.858394,Hydroelectric (Gravity)
+West Kiewa (Mount Beauty Hydro Scheme),Renewable,Water,62,2,Mount Beauty,Victoria,147.186048,-36.760066,Hydroelectric (Gravity)
+Murray 2,Renewable,Water,552,4,Khancoban,New South Wales,148.136247,-36.242344,Hydroelectric (Gravity)
+Murray 1,Renewable,Water,950,10,Khancoban,New South Wales,148.190095,-36.246713,Hydroelectric (Gravity)
+Cape Sir William Grant Wind Farm,Renewable,Wind,54,27,Portland,Victoria,141.6208504,-38.39759342,Wind Turbine
+Cape Nelson South Wind Farm,Renewable,Wind,44,22,Portland West,Victoria,141.543,-38.41199995,Wind Turbine
+Cape Nelson North Wind Farm,Renewable,Wind,22,11,Portland West,Victoria,141.542959,-38.367637,Wind Turbine
+Ballarat Base Hospital,Non Renewable,Natural Gas,3,,Ballarat Central,Victoria,143.846918,-37.559607,Compression Reciprocating Engine
+Anglesea,Non Renewable,Coal,165,1,Anglesea,Victoria,144.182789,-38.386056,Steam Subcritical
+Remount,Renewable,Biogas,2.2,2,Mowbray,Tasmania,147.155425,-41.395049,
+Wayatinah,Renewable,Water,38.3,3,Wayatinah,Tasmania,146.534709,-42.427176,Hydroelectric (Gravity)
+Tungatinah,Renewable,Water,125,5,Tarraleah,Tasmania,146.456543,-42.296671,Hydroelectric (Gravity)
+Tods Corner,Renewable,Water,1.7,1,Central Plateau,Tasmania,146.793785,-41.970732,Hydroelectric (Gravity)
+Tarraleah,Renewable,Water,90,6,Tarraleah,Tasmania,146.457156,-42.301208,Hydroelectric (Gravity)
+Meadowbank,Renewable,Water,40,1,Meadowbank,Tasmania,146.845676,-42.611199,Hydroelectric (Gravity)
+Liapootah,Renewable,Water,87.3,3,Wayatinah,Tasmania,146.50989,-42.376317,Hydroelectric (Gravity)
+Cluny,Renewable,Water,17,1,Ouse,Tasmania,146.6811623,-42.50642303,Hydroelectric (Gravity)
+Catagunya,Renewable,Water,48,2,Ouse,Tasmania,146.5976867,-42.45238115,Hydroelectric (Gravity)
+Butlers Gorge,Renewable,Water,14.4,1,Butlers Gorge,Tasmania,146.2617581,-42.26689751,Hydroelectric (Gravity)
+Rowallan,Renewable,Water,10.5,1,Mersey Forest,Tasmania,146.2175929,-41.72952308,Hydroelectric (Gravity)
+Lower Lake Margaret,Renewable,Water,3.2,1,Lake Margaret,Tasmania,145.5261095,-42.01471994,Hydroelectric (Gravity)
+Lemonthyme,Renewable,Water,81.6,1,Mersey Forest,Tasmania,146.139022,-41.603763,Hydroelectric (Gravity)
+Upper Lake Margaret,Renewable,Water,8.4,7,Lake Margaret,Tasmania,145.543699,-42.004567,Hydroelectric (Gravity)
+Fisher,Renewable,Water,43.2,1,Mersey Forest,Tasmania,146.2686839,-41.67319259,Hydroelectric (Gravity)
+Tamar Valley,Non Renewable,Natural Gas,390,5,Bell Bay,Tasmania,146.9036362,-41.1401247,Combined Cycle Gas Turbine
+Inkerman Sugar Mill,Renewable,Biomass,10.5,2,Home Hill,Queensland,147.401591,-19.642155,Cogeneration - Steam Subcritical
+Mackay,Non Renewable,Natural Gas,30,1,West Mackay,Queensland,149.159097,-21.144566,Open Cycle Gas Turbine
+Roma,Non Renewable,Natural Gas,80,2,Roma,Queensland,148.840199,-26.577201,Open Cycle Gas Turbine
+Swanbank B,Non Renewable,Coal,480,4,Swanbank,Queensland,152.8144521,-27.66006546,Steam Subcritical
+Swanbank E,Non Renewable,Natural Gas,385,1,Swanbank,Queensland,152.8179382,-27.65537431,Combined Cycle Gas Turbine
+Wivenhoe Hydroelectric,Renewable,Water,500,2,Split Yard Creek,Queensland,152.6320276,-27.37222139,Hydroelectric (Pumped Storage)
+Barron Gorge,Renewable,Water,60,2,Kuranda,Queensland,145.646495,-16.850199,Hydroelectric (Run of River)
+Braemar 1,Non Renewable,Natural Gas,504,3,Kogan,Queensland,150.9053369,-27.11093403,Open Cycle Gas Turbine
+Braemar 2,Non Renewable,Natural Gas,519,3,Kogan,Queensland,150.9048783,-27.11281127,Open Cycle Gas Turbine
+Condamine A,Non Renewable,Natural Gas,144,3,Columboola,Queensland,150.2700145,-26.66822221,Combined Cycle Gas Turbine
+Daandine,Non Renewable,Natural Gas,33,11,Kogan,Queensland,150.9430055,-27.08631997,Compression Reciprocating Engine
+Darling Downs,Non Renewable,Natural Gas,644,4,Kogan,Queensland,150.894217,-27.11689141,Combined Cycle Gas Turbine
+German Creek,Non Renewable,Natural Gas,45.2,16,Middlemount,Queensland,148.551497,-22.928147,Spark Ignition Reciprocating Engine
+Gladstone,Non Renewable,Coal,1680,6,Callemondah,Queensland,151.218653,-23.850753,Steam Subcritical
+Isis Central Sugar Mill,Renewable,Biomass,25,4,Isis Central,Queensland,152.208556,-25.193986,Cogeneration - Steam Subcritical
+Kalamia Sugar Mill,Renewable,Biomass,9,1,Brandon,Queensland,147.415237,-19.522339,Steam Subcritical
+Kareeya,Renewable,Water,88,5,Cardstone,Queensland,145.577865,-17.767002,Hydroelectric (Run of River)
+Kogan Creek,Non Renewable,Coal,744,1,Brigalow,Queensland,150.7492833,-26.91768333,Steam Super Critical
+Millmerran,Non Renewable,Coal,856,2,Grays Gate,Queensland,151.278949,-27.961542,Steam Super Critical
+Moranbah,Non Renewable,Natural Gas,12.56,,Moranbah,Queensland,148.0246472,-21.98513021,Spark Ignition Reciprocating Engine
+Mount Stuart,Non Renewable,Distillate,423,2,Stuart,Queensland,146.8511705,-19.33799835,Open Cycle Gas Turbine
+Oakey,Non Renewable,Natural Gas,282,2,Oakey,Queensland,151.679767,-27.418362,Open Cycle Gas Turbine
+Oaky Creek,Non Renewable,Natural Gas,20,16,Bundoora,Queensland,148.581702,-22.987776,Spark Ignition Reciprocating Engine
+Stanwell,Non Renewable,Coal,1460,4,Stanwell,Queensland,150.319466,-23.50972,Steam Subcritical
+Tarong,Non Renewable,Fuel Oil,15,1,Tarong,Queensland,151.917164,-26.785767,Open Cycle Gas Turbine
+Tarong North,Non Renewable,Coal,443,1,Tarong,Queensland,151.9146017,-26.77576259,Steam Super Critical
+Tarong,Non Renewable,Coal,1400,4,Tarong,Queensland,151.9152732,-26.78235751,Steam Subcritical
+Townsville,Non Renewable,Natural Gas,220,2,Yabulu,Queensland,146.618707,-19.201056,Combined Cycle Gas Turbine
+Yarwun,Non Renewable,Natural Gas,154,,Yarwun,Queensland,151.15193,-23.830645,Open Cycle Gas Turbine
+Macknade Sugar Mill,Renewable,Biomass,8,2,Macknade,Queensland,146.257961,-18.589043,Steam Subcritical
+Victoria Sugar Mill,Renewable,Biomass,24,3,Victoria Plantation,Queensland,146.201627,-18.650804,Steam Subcritical
+Callide C,Non Renewable,Coal,840,2,Mount Murchison,Queensland,150.618181,-24.344946,Steam Super Critical
+Callide B,Non Renewable,Coal,700,2,Mount Murchison,Queensland,150.619749,-24.34488,Steam Subcritical
+Callide A,Non Renewable,Coal,30,4,Mount Murchison,Queensland,150.627973,-24.334025,Steam Subcritical
+Collinsville,Non Renewable,Coal,190,5,Collinsville,Queensland,147.804887,-20.544682,Steam Subcritical
+Broome,Non Renewable,Natural Gas,39.6,17,Minyirr,Western Australia,122.204602,-17.981027,
+Burrup Peninsula (Karratha Gas Plant),Non Renewable,Natural Gas,240,,Burrup,Western Australia,116.782147,-20.628649,
+Burrup Peninsula (Pluto Phase 1),Non Renewable,Natural Gas,160,,Burrup,Western Australia,116.78015,-20.59368,
+Esperance,Non Renewable,Natural Gas,33,7,West Beach,Western Australia,121.8998,-33.8762,
+Karratha,Non Renewable,Natural Gas,86,2,Stove Hill,Western Australia,116.837473,-20.762567,
+Kwinana (Alcoa Refinery),Non Renewable,Natural Gas,74.5,7,Naval Base,Western Australia,115.779676,-32.194635,
+Kwinana,Non Renewable,Natural Gas,21,1,Naval Base,Western Australia,115.7759455,-32.19700264,Gas Turbine
+Kwinana NewGen,Non Renewable,Natural Gas,320,1,Naval Base,Western Australia,115.772821,-32.20198,Combined Cycle Gas Turbine
+Kwinana Swift,Non Renewable,Natural Gas,120,4,Kwinana Beach,Western Australia,115.7782769,-32.22425833,
+Neerabup,Non Renewable,Natural Gas,330,7,Neerabup,Western Australia,115.802149,-31.67125,
+Newman Iron Ore Mine,Non Renewable,Natural Gas,170,4,Newman,Western Australia,119.708587,-23.344275,
+Pinjarra Bauxite Mine and Alumina Refinery,Non Renewable,Natural Gas,280,2,Oakley,Western Australia,115.946894,-32.647303,
+Ravensthorpe,Non Renewable,Distillate,56,,Jerdacuttup,Western Australia,120.36,-33.61,
+Wagerup Bauxite Mine and Alumina Refinery,Non Renewable,Natural Gas,98,4,Wagerup,Western Australia,115.916995,-32.914495,
+West Kalgoorlie,Non Renewable,Distillate,60,2,Yilkari,Western Australia,121.423355,-30.780635,
+Port Hedland,Non Renewable,Natural Gas,126,3,Boodarie,Western Australia,118.5498,-20.4283,
+Mount Magnet,Non Renewable,Natural Gas,1.9,,Mount Magnet,Western Australia,117.832711,-28.08708434,
+Kalgoorlie Nickel Smelter,Non Renewable,Natural Gas,42,1,Feysville,Western Australia,121.484188,-30.873669,
+Kambalda,Non Renewable,Natural Gas,42,1,Kambalda East,Western Australia,121.6740843,-31.19193479,
+Leinster Nickel Mine,Non Renewable,Natural Gas,59,1,Leinster,Western Australia,120.6989963,-27.81412138,
+Mount Keith Nickel Mine,Non Renewable,Natural Gas,112,2,Wiluna,Western Australia,120.547979,-27.214583,
+Muja C,Non Renewable,Coal,400,2,Muja,Western Australia,116.3061833,-33.44604657,Steam Subcritical
+Worsley Cogeneration,Non Renewable,Natural Gas,106,2,Worsley,Western Australia,116.0637377,-33.2365459,
+Laverton (Granny Smith Gold Mine),Non Renewable,Distillate,30.6,10,Laverton,Western Australia,122.415029,-28.809649,
+Argyle Diamond Mine,Non Renewable,Distillate,32,,Lake Argyle,Western Australia,128.40308,-16.716157,
+Christmas Creek Iron Ore Mine,Non Renewable,Distillate,58,,Newman,Western Australia,119.732,-22.399,Spark Ignition Reciprocating Engine
+Jundee Gold Mine,Non Renewable,Natural Gas,21,6,Wiluna,Western Australia,120.577613,-26.371212,Spark Ignition Reciprocating Engine
+Murrin Murrin (Nickel Mine),Non Renewable,Natural Gas,78,3,Leonora,Western Australia,121.32929,-28.923754,
+Plutonic Gold Mine,Non Renewable,Natural Gas,28,4,Kumarina,Western Australia,119.450757,-25.311002,
+Sunrise Dam,Non Renewable,Natural Gas,28.4,24,Laverton,Western Australia,122.4392845,-29.09268344,Spark Ignition Reciprocating Engine
+Wiluna Gold Mine,Non Renewable,Natural Gas,21,3,Wiluna,Western Australia,120.251884,-26.631568,
+Paraburdoo (Standby),Non Renewable,Natural Gas,20,3,Innawanga,Western Australia,117.6136744,-23.22382354,
+Telfer Gold Mine,Non Renewable,Natural Gas,159,3,Telfer,Western Australia,122.209103,-21.712911,
+Amcor Gawler,Non Renewable,Distillate,4,,Kingsford,South Australia,138.765864,-34.550857,Compression Reciprocating Engine
+Lonsdale,Non Renewable,Distillate,20,18,Lonsdale,South Australia,138.4910068,-35.10966855,Compression Reciprocating Engine
+Pedler Creek,Renewable,Biogas,3,3,Mclaren Vale,South Australia,138.502094,-35.202321,Spark Ignition Reciprocating Engine
+Wingfield I,Renewable,Biogas,5,5,Wingfield,South Australia,138.557247,-34.83482,Spark Ignition Reciprocating Engine
+Wingfield II,Renewable,Biogas,5,5,Dry Creek,South Australia,138.548903,-34.832081,Spark Ignition Reciprocating Engine
+Ladbroke Grove,Non Renewable,Natural Gas,80,2,Monbulla,South Australia,140.782692,-37.456673,Open Cycle Gas Turbine
+Playford B,Non Renewable,Coal,240,4,Port Paterson,South Australia,137.78188,-32.539279,Steam Subcritical
+Northern,Non Renewable,Coal,530,2,Port Paterson,South Australia,137.7882042,-32.54325419,Steam Subcritical
+Berrimah,Non Renewable,Natural Gas,10,1,Berrimah,Northern Territory,130.919476,-12.426176,Gas Turbine
+Landfill Management Services Shoal Bay,Renewable,Biogas,1.1,1,Holmes,Northern Territory,130.925408,-12.389174,
+Tennant Creek,Non Renewable,Natural Gas,16.7,,Tennant Creek,Northern Territory,134.175285,-19.65493,Open Cycle Gas Turbine
+Ron Goodin,Non Renewable,Natural Gas,44.6,,Sadadeen,Northern Territory,133.891175,-23.709109,Open Cycle Gas Turbine
+Owen Springs,Non Renewable,Natural Gas,36,3,Hugh,Northern Territory,133.825487,-23.863611,Open Cycle Gas Turbine
+Brewer,Non Renewable,Natural Gas,8.5,3,Hugh,Northern Territory,133.828143,-23.881698,Open Cycle Gas Turbine
+Yulara,Non Renewable,Compressed Natural Gas,10.95,0,Yulara,Northern Territory,130.991181,-25.232313,Open Cycle Gas Turbine
+Pine Creek,Non Renewable,Natural Gas,34.76,6,Pine Creek,Northern Territory,131.862362,-13.78561,Spark Ignition Reciprocating Engine
+Katherine,Non Renewable,Natural Gas,34.7,,Cossack,Northern Territory,132.244506,-14.458693,Open Cycle Gas Turbine
+Warrego,Non Renewable,Natural Gas,19,,Warumungu,Northern Territory,133.823587,-19.443393,
+Condong Sugar Mill,Renewable,Biomass,30,1,Condong,New South Wales,153.43411,-28.313802,Steam Subcritical
+Appin (Mine),Non Renewable,Natural Gas,55.6,54,Appin,New South Wales,150.772181,-34.208185,Spark Ignition Reciprocating Engine
+Bayswater,Non Renewable,Coal,2640,4,Muswellbrook,New South Wales,150.94913,-32.39527,Steam Subcritical
+Bendeela (Shoalhaven Scheme),Renewable,Water,240,4,Kangaroo Valley,New South Wales,150.46687,-34.73369,Hydroelectric (Pumped Storage)
+Blowering,Renewable,Water,70,1,Wereboldera,New South Wales,148.246272,-35.398601,Hydroelectric (Gravity)
+Broadwater,Renewable,Biomass,38,2,Broadwater,New South Wales,153.433481,-29.011828,Cogeneration - Steam Subcritical
+Brown Mountain,Renewable,Water,4.95,5,Bemboka,New South Wales,149.4740422,-36.59508977,Hydroelectric (Gravity)
+Capral (Aluminium Smelter),Non Renewable,Natural Gas,300,3,Loxford,New South Wales,151.481305,-32.789723,
+Colongra,Non Renewable,Natural Gas,724,4,Colongra,New South Wales,151.544785,-33.209869,Open Cycle Gas Turbine
+EarthPower Biomass Plant,Renewable,Biogas,3.9,,Camellia,New South Wales,151.042037,-33.820373,Spark Ignition Reciprocating Engine
+Eraring,Non Renewable,Distillate,41.5,1,Eraring,New South Wales,151.5223301,-33.06174875,Open Cycle Gas Turbine
+Visy Pulp and Paper Tumut,Renewable,Biomass,20,1,Gadara,New South Wales,148.137052,-35.295933,Cogeneration
+Glenbawn,Renewable,Water,5.8,1,Glenbawn,New South Wales,150.998154,-32.109661,Hydroelectric (Gravity)
+Glennies Creek,Non Renewable,Coal Seam Methane,13,13,Middle Falbrook,New South Wales,151.128627,-32.459843,Reciprocating Engine
+Hunter,Non Renewable,Distillate,29,16,Abermain,New South Wales,151.450471,-32.836021,Compression Reciprocating Engine
+Hunter Valley,Non Renewable,Natural Gas,50,2,Muswellbrook,New South Wales,150.966396,-32.389253,Open Cycle Gas Turbine
+Kangaroo Valley (Shoalhaven Scheme),Renewable,Water,160,2,Kangaroo Valley,New South Wales,150.47953,-34.72297,Hydroelectric (Pumped Storage)
+Liddell,Non Renewable,Coal,2200,4,Muswellbrook,New South Wales,150.97757,-32.371267,Steam Subcritical
+Mt Piper,Non Renewable,Coal,1400,2,Blackmans Flat,New South Wales,150.0313223,-33.35889223,Steam Subcritical
+Munmorah,Non Renewable,Coal,600,2,Colongra,New South Wales,151.541837,-33.211691,Steam Subcritical
+Nymboida,Renewable,Water,33.6,7,Nymboida,New South Wales,152.741708,-29.925738,Hydroelectric (Gravity)
+Oaky,Renewable,Water,4.8,5,Wollomombi,New South Wales,152.06897,-30.575119,Hydroelectric (Gravity)
+Redbank,Non Renewable,Coal,150,1,Warkworth,New South Wales,151.071936,-32.580206,Steam Subcritical
+Smithfield Energy,Non Renewable,Natural Gas,170.9,3,Smithfield,New South Wales,150.949466,-33.85004,Combined Cycle Gas Turbine
+Tahmoor,Non Renewable,Coal Seam Methane,7,7,Bargo,New South Wales,150.58077,-34.248233,Reciprocating Engine
+Tallawarra,Non Renewable,Natural Gas,460,1,Yallah,New South Wales,150.808056,-34.522778,Combined Cycle Gas Turbine
+Teralba,Non Renewable,Natural Gas,3,4,Teralba,New South Wales,151.611907,-32.94549,Spark Ignition Reciprocating Engine
+Tomago Aluminium Smelter,Non Renewable,Natural Gas,810,3,Tomago,New South Wales,151.7178091,-32.82165122,
+Tower Mine,Non Renewable,Coal Seam Methane,41.2,40,Douglas Park,New South Wales,150.717941,-34.220692,Reciprocating Engine
+Tumut 1 (Upper Tumut),Renewable,Water,616,4,Cabramurra,New South Wales,148.36371,-35.951729,Hydroelectric (Gravity)
+Tumut 2 (Upper Tumut),Renewable,Water,336,4,Cabramurra,New South Wales,148.3672174,-35.8813841,Hydroelectric (Gravity)
+Uranquinty,Non Renewable,Natural Gas,664,4,Uranquinty,New South Wales,147.215692,-35.179395,Open Cycle Gas Turbine
+Vales Point B,Non Renewable,Coal,1360,2,Mannering Park,New South Wales,151.543146,-33.160745,Steam Subcritical
+Wallerawang C,Non Renewable,Coal,500,2,Wallerawang,New South Wales,150.083345,-33.40282363,Steam Subcritical
+Warragamba,Renewable,Water,50,1,Warragamba,New South Wales,150.5965406,-33.88324223,Hydroelectric (Gravity)
+West Illawarra Leagues Club,Non Renewable,Distillate,1,,Unanderra,New South Wales,150.842907,-34.451537,Compression Reciprocating Engine
+Western Suburbs Leagues Club (Campbelltown),Non Renewable,Distillate,1,,Leumeah,New South Wales,150.83286,-34.051326,
+Burrendong,Renewable,Water,19,1,Yarragal,New South Wales,149.107986,-32.664616,Hydroelectric (Gravity)
+Copeton,Renewable,Water,24,1,Copeton,New South Wales,150.923462,-29.910198,Hydroelectric (Gravity)
+Wilga Park,Non Renewable,Coal Seam Methane,16,11,Bohena Creek,New South Wales,149.677153,-30.363437,Reciprocating Engine
+Guthega,Renewable,Water,80,2,Kosciuszko National Park,New South Wales,148.413528,-36.350098,Hydroelectric (Gravity)
+Lake Keepit,Renewable,Water,6.5,1,Keepit,New South Wales,150.491399,-30.879189,Hydroelectric (Gravity)
+Broken Hill,Non Renewable,Natural Gas,50,2,Broken Hill,New South Wales,141.420334,-31.986296,Open Cycle Gas Turbine
+Eraring,Non Renewable,Coal,2880,4,Eraring,New South Wales,151.5206479,-33.06207492,Steam Subcritical
+Maryvale Mill,Renewable,Biomass,54.5,,Maryvale,Victoria,146.4479463,-38.18089277,
+Grasmere Wind Farm (Albany stage II),Renewable,Wind,13.8,6,,Western Australia,117.7637609,-35.05065052,Wind Turbine
+Tully Sugar Mill,Renewable,Biomass,21.4,,Tully,Queensland,145.9266525,-17.93731765,Steam Subcritical
+Proserpine Sugar Mill,Renewable,Biomass,17,4,Proserpine,Queensland,148.5797163,-20.39854476,Cogeneration
+North Sydney,Non Renewable,Natural Gas,0.8,1,North Sydney,New South Wales,151.2053942,-33.83838156,Spark Ignition Reciprocating Engine
+Sydney,Non Renewable,Natural Gas,0.8,1,Sydney,New South Wales,151.2091,-33.871547,Spark Ignition Reciprocating Engine
+North Sydney,Non Renewable,Natural Gas,2.4,2,North Sydney,New South Wales,151.2069282,-33.83981189,Spark Ignition Reciprocating Engine
+Blackmores,Non Renewable,Natural Gas,0.8,2,Warriewood,New South Wales,151.2908047,-33.67777003,Spark Ignition Reciprocating Engine
+Nine Network,Non Renewable,Distillate,3.2,,Willoughby,New South Wales,151.1966227,-33.81096413,Compression Reciprocating Engine
+Revesby Workers Club,Non Renewable,Distillate,2.5,1,Revesby,New South Wales,151.0137332,-33.95343975,Compression Reciprocating Engine
+St George Leagues Club,Non Renewable,Distillate,1,1,Kogarah,New South Wales,151.129381,-33.97481738,Compression Reciprocating Engine
+University of New South Wales,Non Renewable,Natural Gas,0.8,1,Kensington,New South Wales,151.2353527,-33.91670428,Spark Ignition Reciprocating Engine
+Norseman Mine,Non Renewable,Distillate,9,,Norseman,Western Australia,121.7943338,-32.1962648,
+Darlot Gold Mine,Non Renewable,Natural Gas,11.7,,,Western Australia,121.2697661,-27.89720716,
+Windimurra Vanadium Mine,Non Renewable,Natural Gas,23.7,7,,Western Australia,118.537147,-28.29331302,
+Rottnest Island Wind Turbine,Renewable,Wind,0.6,1,Rottnest Island,Western Australia,115.5289139,-31.99375199,Wind Turbine
+Cloudbreak,Non Renewable,Distillate,44,18,Mulga Downs,Western Australia,119.404017,-22.32471027,
+Port Hedland,Non Renewable,Natural Gas,84,2,Boodarie,Western Australia,118.5383743,-20.37817896,
+Noranda,Renewable,Biogas,1.1,1,Noranda,Western Australia,115.8773271,-31.8653894,
+Red Hill,Renewable,Biogas,3.65,4,Red Hill,Western Australia,116.0992397,-31.83165058,
+Shenton Park WMRC Project,Renewable,Biogas,1,,Shenton Park,Western Australia,115.7924435,-31.95766666,
+Kalamunda,Non Renewable,Distillate,1.3,1,Kalamunda,Western Australia,115.9987933,-31.97677862,
+Canning Vale,Renewable,Biogas,4,1,Canning Vale,Western Australia,115.8914057,-32.07389875,
+Gosnells,Renewable,Biogas,1.1,1,Gosnells,Western Australia,116.0128715,-32.02275096,
+KRC Cogeneration Plant,Non Renewable,Natural Gas,4.2,,Hemmant,Queensland,153.1184669,-27.44526681,Steam Subcritical
+Melbourne,Non Renewable,Natural Gas,1.2,1,Melbourne,Victoria,144.9684801,-37.808596,Spark Ignition Reciprocating Engine
+Carlton,Non Renewable,Natural Gas,0.4,1,Carlton,Victoria,144.9606501,-37.80611823,Compression Reciprocating Engine
+Eildon Small Hydro,Renewable,Water,5,1,Eildon,Victoria,145.8974099,-37.24307176,Hydroelectric (Gravity)
+Corio,Renewable,Biogas,1,1,Corio,Victoria,144.4055757,-38.05865888,Spark Ignition Reciprocating Engine
+South East Water Hallam Plant,Renewable,Water,0.25,1,,Victoria,145.2781215,-38.02317811,Hydroelectric (Gravity)
+Lower Rubicon,Renewable,Water,13.55,1,,Victoria,145.8457752,-37.30272459,Hydroelectric (Gravity)
+Royston,Renewable,Water,0.9,1,,Victoria,145.8645268,-37.37392068,Hydroelectric (Gravity)
+Rubicon Falls,Renewable,Water,0.3,1,,Victoria,145.8476787,-37.34008663,Hydroelectric (Gravity)
+Leonards Hill,Renewable,Wind,4.1,2,Leonards Hill,Victoria,144.122153,-37.42713575,Wind Turbine
+Box Hill,Renewable,Wind,25,,Armidale,New South Wales,151.6838899,-30.49941067,Wind Turbine
+Highbury,Renewable,Biogas,2,1,Highbury,South Australia,138.7202836,-34.84902902,Spark Ignition Reciprocating Engine
+Tea Tree Gully,Renewable,Biogas,1,1,St Agnes,South Australia,138.712851,-34.83032707,Spark Ignition Reciprocating Engine
+Port Stanvac,Non Renewable,Distillate,57.6,36,Lonsdale,South Australia,138.4914591,-35.11039534,Compression Reciprocating Engine
+Maryborough,Renewable,Biomass,7.5,,Maryborough,Queensland,152.7170961,-25.54758801,Steam Super Critical
+Stapylton Green Energy,Renewable,Biomass,4.8,,Stapylton,Queensland,153.2463026,-27.73344896,Steam Subcritical
+Bremer Bay Wind Turbine,Renewable,Wind,0.6,1,Bremer Bay,Western Australia,119.3914814,-34.39900715,Wind Turbine
+Bremer Bay Diesel Backup,Non Renewable,Distillate,1.3,1,Bremer Bay,Western Australia,119.3888043,-34.40182818,
+Coral Bay Wind Turbines,Renewable,Wind,0.83,3,Coral Bay,Western Australia,113.7720668,-23.15441917,Wind Turbine
+Coral Bay Diesel Backup,Non Renewable,Distillate,2.24,8,Coral Bay,Western Australia,113.776179,-23.15214432,
+Denham Wind Turbines,Renewable,Wind,0.92,4,Denham,Western Australia,113.549311,-25.91152387,Wind Turbine
+Denham Diesel Backup,Non Renewable,Distillate,1.6,3,Denham,Western Australia,113.5339545,-25.91672484,
+Woodman Point,Renewable,Biogas,1.8,3,Munster,Western Australia,115.771305,-32.14241986,
+Henderson,Renewable,Biogas,3.2,3,Henderson,Western Australia,115.8008001,-32.16502102,
+Tamala Park,Renewable,Biogas,4.65,,Tamala Park,Western Australia,115.7266449,-31.70778613,
+Mandurah,Renewable,Biogas,1.3,,Mandurah,Western Australia,115.7589572,-32.50791827,
+Rockingham,Renewable,Biogas,2.1,,Rockingham,Western Australia,115.8153889,-32.28632251,
+South Cardup (Shale Road Landfill),Renewable,Biogas,3.3,3,South Cardup,Western Australia,116.0193144,-32.26643616,
+Cue,Non Renewable,Distillate,0.8,1,Cue,Western Australia,117.8894843,-27.42124775,
+Sandstone,Non Renewable,Distillate,0.4,,Sandstone,Western Australia,119.2949593,-27.98526935,
+Nullagine Solar Farm,Renewable,Solar,0.2,900,Nullagine,Western Australia,120.1117234,-21.8795011,Solar Photovoltaic
+Nullagine Diesel Backup,Non Renewable,Distillate,0.96,,Nullagine,Western Australia,120.1128625,-21.87944415,
+Marble Bar Solar Farm,Renewable,Solar,0.3,1350,Marble Bar,Western Australia,119.7412,-21.16434463,Solar Photovoltaic
+Marble Bar Diesel Backup,Non Renewable,Distillate,1.28,,Marble Bar,Western Australia,119.7418515,-21.16492293,
+Derby,Non Renewable,Natural Gas,12.53,,Derby,Western Australia,123.64415,-17.31414107,
+Fitzroy Crossing,Non Renewable,Natural Gas,4.06,,Fitzroy Crossing,Western Australia,125.5597112,-18.19557505,
+Halls Creek,Non Renewable,Natural Gas,3.69,,Halls Creek,Western Australia,127.661897,-18.23275148,
+Warmun,Non Renewable,Distillate,1.3,6,Warmun,Western Australia,128.2113196,-17.0258835,
+Kununurra,Non Renewable,Distillate,12.4,1,Kununurra,Western Australia,128.739462,-15.77955678,
+Laverton,Non Renewable,Distillate,1.5,1,Laverton,Western Australia,122.396468,-28.62162366,
+Exmouth,Non Renewable,Natural Gas,8,7,Exmouth,Western Australia,114.1249981,-21.94645795,
+Tableland,Renewable,Biomass,7,,Arriga,Queensland,145.3449699,-17.11929219,Steam Super Critical
+South Johnstone,Renewable,Biomass,20,,South Johnstone,Queensland,145.9910004,-17.60568513,Steam Super Critical
+Mulgrave,Renewable,Biomass,13,,Gordonvale,Queensland,145.7887114,-17.0931655,Steam Super Critical
+Blue Lake Milling Power Plant,Non Renewable,Distillate,1,1,Bordertown,South Australia,140.7574619,-36.31643279,Compression Reciprocating Engine
+Tatiara Meats,Non Renewable,Distillate,0.5,1,Bordertown,South Australia,140.7367694,-36.32655639,Compression Reciprocating Engine
+Kalumburu,Non Renewable,Distillate,0.7,5,Kalumburu,Western Australia,126.6439552,-14.29385554,
+Ardyaloon,Non Renewable,Distillate,0.8,6,Ardyaloon,Western Australia,123.0413738,-16.44441722,
+Djarindjin,Non Renewable,Distillate,0.7,5,Djarindjin,Western Australia,122.9035895,-16.51990769,
+Beagle Bay,Non Renewable,Distillate,0.7,5,Beagle Bay,Western Australia,122.6585086,-16.99390006,
+Bidyadanga,Non Renewable,Distillate,1.3,,Lagrange,Western Australia,121.7847809,-18.68162717,
+Gascoyne Junction,Non Renewable,Distillate,0.4,,Gascoyne Junction,Western Australia,115.2082892,-25.05569376,
+Wiluna,Non Renewable,Distillate,1.3,,Wiluna,Western Australia,120.2185089,-26.59215989,
+Yalgoo,Non Renewable,Distillate,0.4,1,Yalgoo,Western Australia,116.6834916,-28.33753663,
+Carnarvon,Non Renewable,Natural Gas,15,13,Carnarvon,Western Australia,113.6753754,-24.86915968,
+Mungullah,Non Renewable,Natural Gas,18,,Carnarvon,Western Australia,113.7095328,-24.89105146,
+Exmouth Advanced Mini Wind Farm,Renewable,Wind,0.06,3,,Western Australia,114.1335056,-21.8126315,Wind Turbine
+Worsley,Non Renewable,Coal,120,4,,Western Australia,116.0687975,-33.23549327,
+Kalbarri PV System,Renewable,Solar,0.02,16,Kalbarri,Western Australia,114.1696918,-27.71524695,Solar Photovoltaic
+Esperance Wind Farm Ten Mile Lagoon,Renewable,Wind,2.03,9,Esperance,Western Australia,121.7690389,-33.88016906,Wind Turbine
+Muja B,Non Renewable,Coal,120,,Muja,Western Australia,116.3087195,-33.44680683,Steam Subcritical
+Muja A,Non Renewable,Coal,120,,Muja,Western Australia,116.3081086,-33.44667107,Steam Subcritical
+Boco Rock,Renewable,Wind,113,,Boco,New South Wales,149.10826,-36.58170602,Wind Turbine
+Ben Lomond,Renewable,Wind,200,,Ben Lomond,New South Wales,151.6585299,-29.96225643,Wind Turbine
+Bamarang,Non Renewable,Natural Gas,320,,Bamarang,New South Wales,150.5258221,-34.90298106,Open Cycle Gas Turbine
+Bango Wind Farm,Renewable,Wind,200,,Laverstock,New South Wales,148.8695573,-34.60577782,Wind Turbine
+Bankstown Sports Club,Non Renewable,Distillate,2,,Bankstown,New South Wales,151.0332436,-33.9196996,Compression Reciprocating Engine
+Belconnen,Renewable,Biogas,1,1,Macgregor,Australian Capital Territory,148.9872184,-35.21418944,Spark Ignition Reciprocating Engine
+Charlestown Square,Non Renewable,Natural Gas,2.8,1,Charlestown,New South Wales,151.6936125,-32.96425538,Spark Ignition Reciprocating Engine
+Club Merrylands,Non Renewable,Distillate,0.8,1,Merrylands,New South Wales,150.9905038,-33.83811555,
+Erskine Park,Non Renewable,Natural Gas,0.4,1,Erskine Park,New South Wales,150.8032273,-33.81820659,Spark Ignition Reciprocating Engine
+Kooragang,Renewable,Wind,0.6,1,Kooragang,New South Wales,151.7477678,-32.87728143,Wind Turbine
+Kalbarri Wind Farm,Renewable,Wind,1.7,2,,Western Australia,114.1945517,-27.89949853,Wind Turbine
+Wodgina,Non Renewable,Natural Gas,13.7,4,,Western Australia,118.674721,-21.17388339,
+Savannah Nickel Mine,Non Renewable,Distillate,10.8,,,Western Australia,128.0330764,-17.36309536,
+Meekatharra,Non Renewable,Distillate,2.9,,Meekatharra,Western Australia,118.483022,-26.59517156,
+Leonora,Non Renewable,Natural Gas,4.43,7,Leonora,Western Australia,121.3212747,-28.88107638,
+Menzies,Non Renewable,Distillate,0.3,1,Menzies,Western Australia,121.0251779,-29.6906019,
+Onslow,Non Renewable,Natural Gas,3.6,6,Onslow,Western Australia,115.0990248,-21.65822155,Spark Ignition Reciprocating Engine
+Hopetoun Diesel Backup,Non Renewable,Distillate,1.3,,Hopetoun,Western Australia,120.129934,-33.90504892,
+Hopetoun Wind Turbines,Renewable,Wind,1.2,2,Hopetoun,Western Australia,120.1296812,-33.90776359,Wind Turbine
+Camballin,Non Renewable,Natural Gas,1.04,,Looma,Western Australia,124.1620851,-18.02775749,
+Cawse Nickel Mine,Non Renewable,Natural Gas,21,,,Western Australia,121.1634809,-30.38080581,
+Buronga,Non Renewable,Natural Gas,150,,Wentworth,New South Wales,142.2616602,-34.10134192,Open Cycle Gas Turbine
+Glenorchy,Renewable,Biogas,1.6,2,Glenorchy,Tasmania,147.2550466,-42.84146317,Spark Ignition Reciprocating Engine
+Hobart,Renewable,Biogas,1,1,South Hobart,Tasmania,147.2888298,-42.88825951,Spark Ignition Reciprocating Engine
+Musselroe,Renewable,Wind,168,56,,Tasmania,148.0097387,-40.77981068,Wind Turbine
+Kings Canyon,Renewable,Solar,0.24,,,Northern Territory,131.5006498,-24.25091959,Solar Photovoltaic
+Bodangora Wind Farm,Renewable,Wind,100,,Bodangora,New South Wales,149.0589636,-32.41367217,Wind Turbine
+Broken Hill Solar Plant,Renewable,Solar,53,,Broken Hill,New South Wales,141.3915455,-31.98670743,Solar Photovoltaic
+McArthur River Mine,Non Renewable,Natural Gas,78,6,McArthur River,Northern Territory,136.0934595,-16.43349825,Reciprocating Engines
+University of Queensland (St Lucia Campus) Solar Array,Renewable,Solar,1.2,5000,St Lucia,Queensland,153.0101375,-27.49495856,Solar Photovoltaic
+Perth Zoo,Renewable,Solar,2.37,755,South Perth,Western Australia,115.8547801,-31.97666278,Solar Photovoltaic
+Tulla Calder Interchange Solar Array,Renewable,Solar,0.24,210,Niddrie,Victoria,144.8948168,-37.73527874,Solar Photovoltaic
+Bridgewater Solar,Renewable,Solar,0.14,,Bridgewater,Victoria,143.9528805,-36.61349914,Solar Photovoltaic
+Monash University (Clayton Campus) Solar Array,Renewable,Solar,0.18,420,,Victoria,145.1329961,-37.91178735,Solar Photovoltaic
+Queen Victoria Market Solar Array,Renewable,Solar,0.25,1328,West Melbourne,Victoria,144.9569438,-37.80694397,Solar Photovoltaic
+Bendigo Solar Park,Renewable,Solar,0.3,,Bendigo,Victoria,144.303239,-36.67475242,Solar Photovoltaic
+Adelaide Showgrounds,Renewable,Solar,1,,Goodwood,South Australia,138.5881935,-34.94528525,Solar Photovoltaic
+Adelaide Airport,Renewable,Solar,0.11,,,South Australia,138.5376555,-34.93867455,Solar Photovoltaic
+Townsville RSL Stadium Solar Array,Renewable,Solar,0.34,1800,Annandale,Queensland,146.8010543,-19.30786103,Solar Photovoltaic
+Fraser Coast Community Solar Farm,Renewable,Solar,0.4,1584,Nikenbah,Queensland,152.7901683,-25.3183986,Solar Photovoltaic
+Metricon (Gold Coast) Stadium Solar Array,Renewable,Solar,0.22,574,Carrara,Queensland,153.3671183,-28.00627412,Solar Photovoltaic
+Carnarvon Solar Farm,Renewable,Solar,0.29,,Carnarvon,Western Australia,113.6741161,-24.89702912,Solar Photovoltaic
+CSIRO Energy Centre,Renewable,Solar,1.5,,Mayfield West,New South Wales,151.7274525,-32.883473,Solar Thermal
+Newington Solar Suburb,Renewable,Solar,0.67,,Newington,New South Wales,151.0538161,-33.8412921,Solar Photovoltaic
+Singleton Solar Farm,Renewable,Solar,0.39,3500,Singleton,New South Wales,151.1812087,-32.59238451,Solar Photovoltaic
+Kogarah Town Square Solar Array,Renewable,Solar,0.16,,Kogarah,New South Wales,151.1331504,-33.96517453,Solar Photovoltaic
+Stadium Australia,Renewable,Solar,0.14,,Homebush,New South Wales,151.0640393,-33.84517807,Solar Photovoltaic
+Mt Gambier,Renewable,Biomass,10,,Mount Gambier,South Australia,140.805696,-37.83884533,Cogeneration
+Narrogin Bioenergy Plant,Renewable,Biomass,1,,Narrogin,Western Australia,117.191581,-32.95211795,Cogeneration
+Visy Paper Gibson Island,Renewable,Biomass,2,1,Gibson Island,Queensland,153.1157946,-27.44051322,Cogeneration
+Mica Creek,Non Renewable,Natural Gas,325,10,Mica Creek,Queensland,139.4904643,-20.77772624,Combined Cycle Gas Turbine
+Wilpena Solar Farm,Renewable,Solar,145,1260,Wilpena Pound,South Australia,138.619757,-31.52339249,Solar Photovoltaic
+Mildura Solar Farm,Renewable,Solar,1.5,40,Carwarp,Victoria,142.1832867,-34.4670898,Solar Photovoltaic
+King Island (Currie),Renewable,Distillate,8.55,9,Currie,Tasmania,143.8919646,-39.93878522,
+West Angelas Mine,Non Renewable,Gas,86,2,West Angelas MIne,Western Australia,118.7245217,-23.15464855,Open Cycle
+Cannington Mine,Non Renewable,Natural Gas,40,22,Cannington Mine,Queensland,140.9157675,-21.86013329,Reciprocating Engines
+Hallett 1 Brown Hill  Wind Farm,Renewable,Wind,94.5,45,Hallett Brown Hill,South Australia,138.7299434,-33.3949602,Wind Turbine
+Hallet 5 - The Bluff,Renewable,Wind,52.5,45,Hallett Brown Hill,South Australia,138.7928315,-33.38554626,Wind Turbine
+Hallett 2 Hallet Hill  Wind Farm,Renewable,Wind,71.4,34,Hallett Hill,South Australia,138.8579506,-33.57166812,Wind Turbine
+Snowtown South,Renewable,Wind,126,47,Snowtown,South Australia,138.118444,-33.83016399,Wind Turbine
+Cape Preston,Non Renewable,Natural Gas,450,16,Cape Preston,Western Australia,116.1590157,-21.07670614,Combined Cycle
+Solomon Iron Ore Mine,Non Renewable,Natural Gas,125,,,Western Australia,117.9848638,-22.15813879,Gas Turbine
+Diamantina,Non Renewable,Natural Gas,242,6,Mt Isa,Queensland,139.4832674,-20.78374958,Combined Cycle Gas Turbine
+Leichhardt,Non Renewable,Natural Gas,60,1,Mt Isa,Queensland,139.4862207,-20.7833352,Combined Cycle Gas Turbine
+Bulwer Island,Non Renewable,Natural Gas,33,3,Brisbane,Queensland,153.1362858,-27.40357955,Cogeneration
+Cape Lambert,Non Renewable,Natural Gas,105,3,Point Samson,Western Australia,117.1407313,-20.64877064,
+Ernabella,Non Renewable,Distillate,0.01,4,Ernabella,South Australia,132.131371,-26.27796062,
+Umuwa,Renewable,Solar,0.35,10,Umuwa,South Australia,132.0146568,-26.4735559,Solar Photovoltaic
+Yuendumu,Renewable,Solar,0.24,10,Yuendumu,Northern Territory,131.7931457,-22.24259062,Solar Photovoltaic
+Lajamanu,Renewable,Solar,0.29,12,Lajamanu,Northern Territory,130.6294897,-18.32650367,Solar Photovoltaic
+Windorah,Renewable,Solar,0.13,5,Windorah,Queensland,142.6607615,-25.41266443,Solar Photovoltaic
+DoubleTree by Hilton Hotel,Renewable,Solar,0.3,1326,Alice Springs,Northern Territory,133.8794539,-23.71496761,Solar Photovoltaic
+Alice Springs Airport,Renewable,Solar,0.24,28,Connellan,Northern Territory,133.8971208,-23.79656983,Solar Photovoltaic
+Uterne Solar,Renewable,Solar,1,3048,Arumbera,Northern Territory,133.8682102,-23.76851739,Solar Photovoltaic
+Hermannsburg,Renewable,Solar,0.19,8,Hermannsburg,Northern Territory,132.7719282,-23.93736458,Solar Photovoltaic
+Ballarat Solar Park,Renewable,Solar,0.3,2000,Mitchell Park,Victoria,143.7854729,-37.51437136,Solar Photovoltaic
+Liddell Solar Thermal,Renewable,Solar,9.3,1000,Liddell,New South Wales,150.9796673,-32.37606915,Solar Thermal
+Greenough River Solar Farm,Renewable,Solar,10,,Walkaway,Western Australia,115.1119375,-28.90431806,Solar Photovoltaic
+Mumbida Wind Farm,Renewable,Wind,55,22,Mount Hill,Western Australia,114.9598878,-28.99180488,Wind Turbine
+Nyngan Solar Plant,Renewable,Solar,102,,Nyngan,New South Wales,147.085352,-31.55274036,Solar Photovoltaic
+Wadeye,Non Renewable,Natural Gas,6.8,4,Wadeye,Northern Territory,129.5368436,-14.260185,Reciprocating Engines
+Traralgon Network Support Station,Renewable,Biogas,10,,East Traralgon,Victoria,146.5654322,-38.1792569,Spark Ignition Reciprocating Engine
+Gullen Range Wind Farm,Renewable,Wind,166,73,Bannister,New South Wales,149.4841144,-34.69037507,Wind Turbine
+Lake Bonney Stage 1 Wind Farm,Renewable,Wind,80.5,46,Millicent,South Australia,140.4057917,-37.78154577,Wind Turbine
+Lake Bonney Stage 3 Wind Farm,Renewable,Wind,39,13,Millicent,South Australia,140.3930292,-37.75049632,Wind Turbine
+Royalla Solar farm,Renewable,Wind,20,,Royalla,Australian Capital Territory,149.1442612,-35.4900093,Wind Turbine
+Timber Creek,Non Renewable,Diesel,1,0,Timber Creek,Northern Territory,130.4790141,-15.65618096,
+Daly Waters,Renewable,Solar,0.2,,Daly Waters,Northern Territory,133.3758544,-16.26963456,Solar Photovoltaic
+Elliott,Non Renewable,Diesel,1,0,Elliott,Northern Territory,133.5392966,-17.55036755,
+Ti-Tree,Renewable,Solar,0.3,,Ti-Tree,Northern Territory,133.4146272,-22.12423175,Solar Photovoltaic
+Roy Hill,Non Renewable,Distillate,6,,Newman,Western Australia,119.9471869,-22.48123779,Spark Ignition Reciprocating Engine
+Moree,Renewable,Solar,60,,Moree,New South Wales,149.8669179,-29.57217585,Solar Photovoltaic
+Gullen Range Wind Farm,Renewable,Wind,165.5,73,Bannister,New South Wales,149.4597433,-34.61491677,Wind Turbine
+Mortons Lane Wind Farm,Renewable,Wind,20,13,Nareeb,Victoria,142.4653129,-37.84134167,Wind Turbine
+Racecourse Mill,Renewable,Biomass,3.5,1,Farleigh,Queensland,149.1344086,-21.163451,Steam Subcritical

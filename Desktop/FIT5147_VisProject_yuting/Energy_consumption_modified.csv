@@ -1,0 +1,3011 @@
+Year,Energy_Consumption,Industry,State
+1973,9.8,Agriculture,New South Wales
+1974,9.3,Agriculture,New South Wales
+1975,9.3,Agriculture,New South Wales
+1976,9.5,Agriculture,New South Wales
+1977,10.2,Agriculture,New South Wales
+1978,10.2,Agriculture,New South Wales
+1979,11.1,Agriculture,New South Wales
+1980,10.4,Agriculture,New South Wales
+1981,12.5,Agriculture,New South Wales
+1982,8.3,Agriculture,New South Wales
+1983,10.9,Agriculture,New South Wales
+1984,10.4,Agriculture,New South Wales
+1985,10.6,Agriculture,New South Wales
+1986,10.1,Agriculture,New South Wales
+1987,9.5,Agriculture,New South Wales
+1988,10.6,Agriculture,New South Wales
+1989,9.9,Agriculture,New South Wales
+1990,10.8,Agriculture,New South Wales
+1991,11.3,Agriculture,New South Wales
+1992,11.7,Agriculture,New South Wales
+1993,11.9,Agriculture,New South Wales
+1994,12.4,Agriculture,New South Wales
+1995,12.8,Agriculture,New South Wales
+1996,13.2,Agriculture,New South Wales
+1997,14,Agriculture,New South Wales
+1998,13.9,Agriculture,New South Wales
+1999,14.2,Agriculture,New South Wales
+2000,29,Agriculture,New South Wales
+2001,29.6,Agriculture,New South Wales
+2002,30.7,Agriculture,New South Wales
+2003,29.8,Agriculture,New South Wales
+2004,29.4,Agriculture,New South Wales
+2005,29.6,Agriculture,New South Wales
+2006,29.2,Agriculture,New South Wales
+2007,28.9,Agriculture,New South Wales
+2008,28.4,Agriculture,New South Wales
+2009,28.6,Agriculture,New South Wales
+2010,28.8,Agriculture,New South Wales
+2011,29.4,Agriculture,New South Wales
+2012,29.2,Agriculture,New South Wales
+2013,27.8,Agriculture,New South Wales
+2014,30.1,Agriculture,New South Wales
+2015,33.5,Agriculture,New South Wales
+1973,8.5,Agriculture,Victoria
+1974,8.8,Agriculture,Victoria
+1975,8.7,Agriculture,Victoria
+1976,8.9,Agriculture,Victoria
+1977,9,Agriculture,Victoria
+1978,9.7,Agriculture,Victoria
+1979,9.7,Agriculture,Victoria
+1980,10.3,Agriculture,Victoria
+1981,10.1,Agriculture,Victoria
+1982,10,Agriculture,Victoria
+1983,11,Agriculture,Victoria
+1984,10.8,Agriculture,Victoria
+1985,10.5,Agriculture,Victoria
+1986,10.2,Agriculture,Victoria
+1987,9.9,Agriculture,Victoria
+1988,10.8,Agriculture,Victoria
+1989,10.4,Agriculture,Victoria
+1990,10.6,Agriculture,Victoria
+1991,10.5,Agriculture,Victoria
+1992,10.7,Agriculture,Victoria
+1993,10.9,Agriculture,Victoria
+1994,11.3,Agriculture,Victoria
+1995,10.8,Agriculture,Victoria
+1996,11.6,Agriculture,Victoria
+1997,12,Agriculture,Victoria
+1998,12.6,Agriculture,Victoria
+1999,12.7,Agriculture,Victoria
+2000,16.9,Agriculture,Victoria
+2001,17,Agriculture,Victoria
+2002,18.8,Agriculture,Victoria
+2003,19.3,Agriculture,Victoria
+2004,20,Agriculture,Victoria
+2005,17.6,Agriculture,Victoria
+2006,15.4,Agriculture,Victoria
+2007,15.7,Agriculture,Victoria
+2008,14.2,Agriculture,Victoria
+2009,15.6,Agriculture,Victoria
+2010,15.6,Agriculture,Victoria
+2011,15.7,Agriculture,Victoria
+2012,15.4,Agriculture,Victoria
+2013,16.9,Agriculture,Victoria
+2014,16.8,Agriculture,Victoria
+2015,15.5,Agriculture,Victoria
+1973,10.3,Agriculture,Queensland
+1974,11.3,Agriculture,Queensland
+1975,11.5,Agriculture,Queensland
+1976,12,Agriculture,Queensland
+1977,12.2,Agriculture,Queensland
+1978,12.5,Agriculture,Queensland
+1979,12.7,Agriculture,Queensland
+1980,13.6,Agriculture,Queensland
+1981,15.9,Agriculture,Queensland
+1982,16.2,Agriculture,Queensland
+1983,17.2,Agriculture,Queensland
+1984,17.4,Agriculture,Queensland
+1985,17.4,Agriculture,Queensland
+1986,17.9,Agriculture,Queensland
+1987,17.8,Agriculture,Queensland
+1988,18.1,Agriculture,Queensland
+1989,16.7,Agriculture,Queensland
+1990,16.9,Agriculture,Queensland
+1991,17.3,Agriculture,Queensland
+1992,18.1,Agriculture,Queensland
+1993,18.5,Agriculture,Queensland
+1994,19,Agriculture,Queensland
+1995,19.3,Agriculture,Queensland
+1996,19.9,Agriculture,Queensland
+1997,20.6,Agriculture,Queensland
+1998,21.5,Agriculture,Queensland
+1999,22.8,Agriculture,Queensland
+2000,15.4,Agriculture,Queensland
+2001,15.8,Agriculture,Queensland
+2002,19.1,Agriculture,Queensland
+2003,19.3,Agriculture,Queensland
+2004,20.9,Agriculture,Queensland
+2005,22.1,Agriculture,Queensland
+2006,22.2,Agriculture,Queensland
+2007,22.2,Agriculture,Queensland
+2008,22.5,Agriculture,Queensland
+2009,22.6,Agriculture,Queensland
+2010,22.9,Agriculture,Queensland
+2011,23.3,Agriculture,Queensland
+2012,24.8,Agriculture,Queensland
+2013,25,Agriculture,Queensland
+2014,25.2,Agriculture,Queensland
+2015,28.3,Agriculture,Queensland
+1973,4.8,Agriculture,Western Australia
+1974,4.6,Agriculture,Western Australia
+1975,4.8,Agriculture,Western Australia
+1976,4.9,Agriculture,Western Australia
+1977,5.8,Agriculture,Western Australia
+1978,5.9,Agriculture,Western Australia
+1979,6.5,Agriculture,Western Australia
+1980,7.3,Agriculture,Western Australia
+1981,7.4,Agriculture,Western Australia
+1982,7.9,Agriculture,Western Australia
+1983,8.8,Agriculture,Western Australia
+1984,8.7,Agriculture,Western Australia
+1985,8,Agriculture,Western Australia
+1986,9.4,Agriculture,Western Australia
+1987,9.6,Agriculture,Western Australia
+1988,10.1,Agriculture,Western Australia
+1989,9.4,Agriculture,Western Australia
+1990,8.8,Agriculture,Western Australia
+1991,9.3,Agriculture,Western Australia
+1992,9.9,Agriculture,Western Australia
+1993,10.5,Agriculture,Western Australia
+1994,11.2,Agriculture,Western Australia
+1995,11.5,Agriculture,Western Australia
+1996,11.7,Agriculture,Western Australia
+1997,11.2,Agriculture,Western Australia
+1998,11.1,Agriculture,Western Australia
+1999,11.3,Agriculture,Western Australia
+2000,12.9,Agriculture,Western Australia
+2001,13.2,Agriculture,Western Australia
+2002,15.2,Agriculture,Western Australia
+2003,16,Agriculture,Western Australia
+2004,17.2,Agriculture,Western Australia
+2005,13.7,Agriculture,Western Australia
+2006,13.4,Agriculture,Western Australia
+2007,13.8,Agriculture,Western Australia
+2008,15.6,Agriculture,Western Australia
+2009,16.8,Agriculture,Western Australia
+2010,17.6,Agriculture,Western Australia
+2011,18.4,Agriculture,Western Australia
+2012,18.1,Agriculture,Western Australia
+2013,17.9,Agriculture,Western Australia
+2014,19.7,Agriculture,Western Australia
+2015,20.7,Agriculture,Western Australia
+1973,4.3,Agriculture,South Australia
+1974,4.1,Agriculture,South Australia
+1975,4.2,Agriculture,South Australia
+1976,4.4,Agriculture,South Australia
+1977,4.4,Agriculture,South Australia
+1978,4.7,Agriculture,South Australia
+1979,5,Agriculture,South Australia
+1980,5,Agriculture,South Australia
+1981,5.4,Agriculture,South Australia
+1982,5.1,Agriculture,South Australia
+1983,5.4,Agriculture,South Australia
+1984,5.3,Agriculture,South Australia
+1985,5.4,Agriculture,South Australia
+1986,6.3,Agriculture,South Australia
+1987,5.9,Agriculture,South Australia
+1988,6.2,Agriculture,South Australia
+1989,5.7,Agriculture,South Australia
+1990,5.8,Agriculture,South Australia
+1991,5.8,Agriculture,South Australia
+1992,5.9,Agriculture,South Australia
+1993,6,Agriculture,South Australia
+1994,5.7,Agriculture,South Australia
+1995,5.5,Agriculture,South Australia
+1996,6.2,Agriculture,South Australia
+1997,6.5,Agriculture,South Australia
+1998,6.6,Agriculture,South Australia
+1999,6.7,Agriculture,South Australia
+2000,7.3,Agriculture,South Australia
+2001,6.4,Agriculture,South Australia
+2002,9.1,Agriculture,South Australia
+2003,8.3,Agriculture,South Australia
+2004,8.9,Agriculture,South Australia
+2005,9.2,Agriculture,South Australia
+2006,9.2,Agriculture,South Australia
+2007,9.7,Agriculture,South Australia
+2008,8.2,Agriculture,South Australia
+2009,7.7,Agriculture,South Australia
+2010,7,Agriculture,South Australia
+2011,7.2,Agriculture,South Australia
+2012,7.1,Agriculture,South Australia
+2013,7.1,Agriculture,South Australia
+2014,7.2,Agriculture,South Australia
+2015,6.9,Agriculture,South Australia
+1973,0.7,Agriculture,Tasmania
+1974,0.7,Agriculture,Tasmania
+1975,1,Agriculture,Tasmania
+1976,1.2,Agriculture,Tasmania
+1977,1.2,Agriculture,Tasmania
+1978,1.2,Agriculture,Tasmania
+1979,1.3,Agriculture,Tasmania
+1980,1.4,Agriculture,Tasmania
+1981,1.4,Agriculture,Tasmania
+1982,1.4,Agriculture,Tasmania
+1983,1.5,Agriculture,Tasmania
+1984,1.5,Agriculture,Tasmania
+1985,1.4,Agriculture,Tasmania
+1986,1.6,Agriculture,Tasmania
+1987,1.9,Agriculture,Tasmania
+1988,1.8,Agriculture,Tasmania
+1989,1.9,Agriculture,Tasmania
+1990,2.1,Agriculture,Tasmania
+1991,2,Agriculture,Tasmania
+1992,2,Agriculture,Tasmania
+1993,2.2,Agriculture,Tasmania
+1994,2.4,Agriculture,Tasmania
+1995,2.4,Agriculture,Tasmania
+1996,2.1,Agriculture,Tasmania
+1997,2.3,Agriculture,Tasmania
+1998,2.4,Agriculture,Tasmania
+1999,2.4,Agriculture,Tasmania
+2000,2.6,Agriculture,Tasmania
+2001,2.7,Agriculture,Tasmania
+2002,3.6,Agriculture,Tasmania
+2003,3.6,Agriculture,Tasmania
+2004,3.6,Agriculture,Tasmania
+2005,3.6,Agriculture,Tasmania
+2006,3.6,Agriculture,Tasmania
+2007,3.6,Agriculture,Tasmania
+2008,3.7,Agriculture,Tasmania
+2009,3.7,Agriculture,Tasmania
+2010,3,Agriculture,Tasmania
+2011,3,Agriculture,Tasmania
+2012,3.5,Agriculture,Tasmania
+2013,3.8,Agriculture,Tasmania
+2014,4.4,Agriculture,Tasmania
+2015,4.1,Agriculture,Tasmania
+1973,0.4,Agriculture,Northern Territory
+1974,0.6,Agriculture,Northern Territory
+1975,0.4,Agriculture,Northern Territory
+1976,0.4,Agriculture,Northern Territory
+1977,0.4,Agriculture,Northern Territory
+1978,0.7,Agriculture,Northern Territory
+1979,0.7,Agriculture,Northern Territory
+1980,0.8,Agriculture,Northern Territory
+1981,0.8,Agriculture,Northern Territory
+1982,0.8,Agriculture,Northern Territory
+1983,0.9,Agriculture,Northern Territory
+1984,0.7,Agriculture,Northern Territory
+1985,0.7,Agriculture,Northern Territory
+1986,0.7,Agriculture,Northern Territory
+1987,0.7,Agriculture,Northern Territory
+1988,0.9,Agriculture,Northern Territory
+1989,1.2,Agriculture,Northern Territory
+1990,1,Agriculture,Northern Territory
+1991,0.9,Agriculture,Northern Territory
+1992,0.9,Agriculture,Northern Territory
+1993,0.9,Agriculture,Northern Territory
+1994,0.9,Agriculture,Northern Territory
+1995,0.9,Agriculture,Northern Territory
+1996,1,Agriculture,Northern Territory
+1997,1.1,Agriculture,Northern Territory
+1998,1.3,Agriculture,Northern Territory
+1999,1.4,Agriculture,Northern Territory
+2000,1.4,Agriculture,Northern Territory
+2001,1.5,Agriculture,Northern Territory
+2002,1.3,Agriculture,Northern Territory
+2003,1.4,Agriculture,Northern Territory
+2004,1.4,Agriculture,Northern Territory
+2005,1.1,Agriculture,Northern Territory
+2006,1.1,Agriculture,Northern Territory
+2007,1.1,Agriculture,Northern Territory
+2008,1.3,Agriculture,Northern Territory
+2009,1.3,Agriculture,Northern Territory
+2010,1.3,Agriculture,Northern Territory
+2011,1.3,Agriculture,Northern Territory
+2012,1.3,Agriculture,Northern Territory
+2013,1.2,Agriculture,Northern Territory
+2014,1.2,Agriculture,Northern Territory
+2015,1.2,Agriculture,Northern Territory
+1973,5.5,Mining,New South Wales
+1974,6.2,Mining,New South Wales
+1975,6.1,Mining,New South Wales
+1976,6.6,Mining,New South Wales
+1977,6.6,Mining,New South Wales
+1978,6.9,Mining,New South Wales
+1979,7.5,Mining,New South Wales
+1980,8.1,Mining,New South Wales
+1981,8.6,Mining,New South Wales
+1982,8.9,Mining,New South Wales
+1983,8.5,Mining,New South Wales
+1984,8.6,Mining,New South Wales
+1985,9.7,Mining,New South Wales
+1986,10.3,Mining,New South Wales
+1987,9.8,Mining,New South Wales
+1988,11.3,Mining,New South Wales
+1989,13,Mining,New South Wales
+1990,13.1,Mining,New South Wales
+1991,13.4,Mining,New South Wales
+1992,13.5,Mining,New South Wales
+1993,14,Mining,New South Wales
+1994,14.4,Mining,New South Wales
+1995,15.7,Mining,New South Wales
+1996,16.7,Mining,New South Wales
+1997,17.9,Mining,New South Wales
+1998,18.5,Mining,New South Wales
+1999,18.5,Mining,New South Wales
+2000,23.3,Mining,New South Wales
+2001,24.6,Mining,New South Wales
+2002,27.2,Mining,New South Wales
+2003,33,Mining,New South Wales
+2004,36,Mining,New South Wales
+2005,34.8,Mining,New South Wales
+2006,35.2,Mining,New South Wales
+2007,35.3,Mining,New South Wales
+2008,35.5,Mining,New South Wales
+2009,41.7,Mining,New South Wales
+2010,46.3,Mining,New South Wales
+2011,52.8,Mining,New South Wales
+2012,58.6,Mining,New South Wales
+2013,60.6,Mining,New South Wales
+2014,59.5,Mining,New South Wales
+2015,62.7,Mining,New South Wales
+1973,14.9,Mining,Victoria
+1974,19.1,Mining,Victoria
+1975,21.2,Mining,Victoria
+1976,22.5,Mining,Victoria
+1977,21.2,Mining,Victoria
+1978,22.2,Mining,Victoria
+1979,22.7,Mining,Victoria
+1980,20.4,Mining,Victoria
+1981,19.9,Mining,Victoria
+1982,23.8,Mining,Victoria
+1983,27.4,Mining,Victoria
+1984,25.1,Mining,Victoria
+1985,21.9,Mining,Victoria
+1986,22.3,Mining,Victoria
+1987,25.4,Mining,Victoria
+1988,24.5,Mining,Victoria
+1989,25.8,Mining,Victoria
+1990,23.8,Mining,Victoria
+1991,27.8,Mining,Victoria
+1992,26,Mining,Victoria
+1993,22.8,Mining,Victoria
+1994,24,Mining,Victoria
+1995,27.6,Mining,Victoria
+1996,28.1,Mining,Victoria
+1997,29.5,Mining,Victoria
+1998,21.2,Mining,Victoria
+1999,26.2,Mining,Victoria
+2000,25.8,Mining,Victoria
+2001,29.7,Mining,Victoria
+2002,20.3,Mining,Victoria
+2003,23.3,Mining,Victoria
+2004,20.5,Mining,Victoria
+2005,22.2,Mining,Victoria
+2006,22.6,Mining,Victoria
+2007,22.8,Mining,Victoria
+2008,28,Mining,Victoria
+2009,24.7,Mining,Victoria
+2010,25.5,Mining,Victoria
+2011,27,Mining,Victoria
+2012,27.5,Mining,Victoria
+2013,32.5,Mining,Victoria
+2014,29.8,Mining,Victoria
+2015,30.1,Mining,Victoria
+1973,8.9,Mining,Queensland
+1974,8.4,Mining,Queensland
+1975,8.7,Mining,Queensland
+1976,9.4,Mining,Queensland
+1977,9.2,Mining,Queensland
+1978,9.3,Mining,Queensland
+1979,9.3,Mining,Queensland
+1980,10.1,Mining,Queensland
+1981,10.9,Mining,Queensland
+1982,11.4,Mining,Queensland
+1983,12,Mining,Queensland
+1984,12.9,Mining,Queensland
+1985,14.2,Mining,Queensland
+1986,15.8,Mining,Queensland
+1987,17.5,Mining,Queensland
+1988,18.8,Mining,Queensland
+1989,19.7,Mining,Queensland
+1990,20.7,Mining,Queensland
+1991,22.8,Mining,Queensland
+1992,25,Mining,Queensland
+1993,26.9,Mining,Queensland
+1994,28.6,Mining,Queensland
+1995,29.9,Mining,Queensland
+1996,31.6,Mining,Queensland
+1997,35.4,Mining,Queensland
+1998,37.9,Mining,Queensland
+1999,39.1,Mining,Queensland
+2000,51.5,Mining,Queensland
+2001,56.7,Mining,Queensland
+2002,63.4,Mining,Queensland
+2003,66.5,Mining,Queensland
+2004,75.9,Mining,Queensland
+2005,70.8,Mining,Queensland
+2006,70.7,Mining,Queensland
+2007,75.6,Mining,Queensland
+2008,86.1,Mining,Queensland
+2009,87.2,Mining,Queensland
+2010,93.7,Mining,Queensland
+2011,108.1,Mining,Queensland
+2012,120.5,Mining,Queensland
+2013,126.3,Mining,Queensland
+2014,135.9,Mining,Queensland
+2015,199.3,Mining,Queensland
+1973,21.5,Mining,Western Australia
+1974,21.3,Mining,Western Australia
+1975,21.3,Mining,Western Australia
+1976,23.5,Mining,Western Australia
+1977,23.1,Mining,Western Australia
+1978,24.7,Mining,Western Australia
+1979,25.8,Mining,Western Australia
+1980,16.3,Mining,Western Australia
+1981,14.4,Mining,Western Australia
+1982,13.4,Mining,Western Australia
+1983,13.7,Mining,Western Australia
+1984,19.6,Mining,Western Australia
+1985,21.1,Mining,Western Australia
+1986,24.1,Mining,Western Australia
+1987,30.1,Mining,Western Australia
+1988,41.4,Mining,Western Australia
+1989,66.9,Mining,Western Australia
+1990,74.5,Mining,Western Australia
+1991,80.6,Mining,Western Australia
+1992,93.2,Mining,Western Australia
+1993,99.4,Mining,Western Australia
+1994,114.2,Mining,Western Australia
+1995,131.7,Mining,Western Australia
+1996,138.2,Mining,Western Australia
+1997,142.4,Mining,Western Australia
+1998,145.8,Mining,Western Australia
+1999,152.8,Mining,Western Australia
+2000,111.8,Mining,Western Australia
+2001,117.3,Mining,Western Australia
+2002,103.1,Mining,Western Australia
+2003,99.9,Mining,Western Australia
+2004,114,Mining,Western Australia
+2005,129.3,Mining,Western Australia
+2006,143,Mining,Western Australia
+2007,148,Mining,Western Australia
+2008,171.2,Mining,Western Australia
+2009,170.2,Mining,Western Australia
+2010,189.2,Mining,Western Australia
+2011,206.5,Mining,Western Australia
+2012,233,Mining,Western Australia
+2013,249.5,Mining,Western Australia
+2014,239.7,Mining,Western Australia
+2015,250.4,Mining,Western Australia
+1973,3.7,Mining,South Australia
+1974,4.6,Mining,South Australia
+1975,5,Mining,South Australia
+1976,6.7,Mining,South Australia
+1977,7.7,Mining,South Australia
+1978,8.3,Mining,South Australia
+1979,10.1,Mining,South Australia
+1980,10.7,Mining,South Australia
+1981,12.3,Mining,South Australia
+1982,12.2,Mining,South Australia
+1983,16.6,Mining,South Australia
+1984,24.8,Mining,South Australia
+1985,24.9,Mining,South Australia
+1986,26.4,Mining,South Australia
+1987,27.7,Mining,South Australia
+1988,26.7,Mining,South Australia
+1989,27.5,Mining,South Australia
+1990,26.3,Mining,South Australia
+1991,25.8,Mining,South Australia
+1992,25.8,Mining,South Australia
+1993,25.4,Mining,South Australia
+1994,26,Mining,South Australia
+1995,25.6,Mining,South Australia
+1996,25.9,Mining,South Australia
+1997,28.2,Mining,South Australia
+1998,29.5,Mining,South Australia
+1999,27.9,Mining,South Australia
+2000,32.9,Mining,South Australia
+2001,32.5,Mining,South Australia
+2002,41,Mining,South Australia
+2003,40,Mining,South Australia
+2004,35.7,Mining,South Australia
+2005,31.9,Mining,South Australia
+2006,26.7,Mining,South Australia
+2007,25,Mining,South Australia
+2008,28.8,Mining,South Australia
+2009,27.8,Mining,South Australia
+2010,29.8,Mining,South Australia
+2011,31.8,Mining,South Australia
+2012,33.7,Mining,South Australia
+2013,36,Mining,South Australia
+2014,34.1,Mining,South Australia
+2015,30.3,Mining,South Australia
+1973,4.4,Mining,Tasmania
+1974,4.4,Mining,Tasmania
+1975,4.2,Mining,Tasmania
+1976,4.3,Mining,Tasmania
+1977,4.5,Mining,Tasmania
+1978,4.4,Mining,Tasmania
+1979,4.4,Mining,Tasmania
+1980,4.4,Mining,Tasmania
+1981,4.1,Mining,Tasmania
+1982,4.4,Mining,Tasmania
+1983,4,Mining,Tasmania
+1984,4.2,Mining,Tasmania
+1985,4.5,Mining,Tasmania
+1986,4.2,Mining,Tasmania
+1987,4.3,Mining,Tasmania
+1988,4.5,Mining,Tasmania
+1989,4.5,Mining,Tasmania
+1990,3.5,Mining,Tasmania
+1991,3.6,Mining,Tasmania
+1992,3.7,Mining,Tasmania
+1993,3.8,Mining,Tasmania
+1994,3.6,Mining,Tasmania
+1995,3.9,Mining,Tasmania
+1996,3.7,Mining,Tasmania
+1997,4,Mining,Tasmania
+1998,4.1,Mining,Tasmania
+1999,4.1,Mining,Tasmania
+2000,5.7,Mining,Tasmania
+2001,4.7,Mining,Tasmania
+2002,1.8,Mining,Tasmania
+2003,2.3,Mining,Tasmania
+2004,2.4,Mining,Tasmania
+2005,2.5,Mining,Tasmania
+2006,2.7,Mining,Tasmania
+2007,3.6,Mining,Tasmania
+2008,3.1,Mining,Tasmania
+2009,3,Mining,Tasmania
+2010,3.2,Mining,Tasmania
+2011,3.6,Mining,Tasmania
+2012,3.4,Mining,Tasmania
+2013,3.3,Mining,Tasmania
+2014,2.9,Mining,Tasmania
+2015,2.7,Mining,Tasmania
+1973,0.4,Mining,Northern Territory
+1974,0.9,Mining,Northern Territory
+1975,0.8,Mining,Northern Territory
+1976,0.7,Mining,Northern Territory
+1977,0.7,Mining,Northern Territory
+1978,0.7,Mining,Northern Territory
+1979,1,Mining,Northern Territory
+1980,1.2,Mining,Northern Territory
+1981,1,Mining,Northern Territory
+1982,1,Mining,Northern Territory
+1983,1,Mining,Northern Territory
+1984,1.6,Mining,Northern Territory
+1985,1.5,Mining,Northern Territory
+1986,1.8,Mining,Northern Territory
+1987,1.9,Mining,Northern Territory
+1988,2.2,Mining,Northern Territory
+1989,2.6,Mining,Northern Territory
+1990,2.6,Mining,Northern Territory
+1991,2.3,Mining,Northern Territory
+1992,2.3,Mining,Northern Territory
+1993,2.3,Mining,Northern Territory
+1994,2.3,Mining,Northern Territory
+1995,3.2,Mining,Northern Territory
+1996,3.6,Mining,Northern Territory
+1997,4.3,Mining,Northern Territory
+1998,3.8,Mining,Northern Territory
+1999,3.9,Mining,Northern Territory
+2000,3,Mining,Northern Territory
+2001,3.4,Mining,Northern Territory
+2002,1.5,Mining,Northern Territory
+2003,3.4,Mining,Northern Territory
+2004,5.8,Mining,Northern Territory
+2005,16.5,Mining,Northern Territory
+2006,26.5,Mining,Northern Territory
+2007,24.5,Mining,Northern Territory
+2008,25.1,Mining,Northern Territory
+2009,24.6,Mining,Northern Territory
+2010,20,Mining,Northern Territory
+2011,21.7,Mining,Northern Territory
+2012,25.9,Mining,Northern Territory
+2013,27.2,Mining,Northern Territory
+2014,32.3,Mining,Northern Territory
+2015,34.5,Mining,Northern Territory
+1973,401.2,Manufacturing,New South Wales
+1974,403.9,Manufacturing,New South Wales
+1975,379.4,Manufacturing,New South Wales
+1976,364.8,Manufacturing,New South Wales
+1977,365.8,Manufacturing,New South Wales
+1978,359.3,Manufacturing,New South Wales
+1979,363.2,Manufacturing,New South Wales
+1980,351.2,Manufacturing,New South Wales
+1981,361.5,Manufacturing,New South Wales
+1982,299,Manufacturing,New South Wales
+1983,311.2,Manufacturing,New South Wales
+1984,324.1,Manufacturing,New South Wales
+1985,326.4,Manufacturing,New South Wales
+1986,338.1,Manufacturing,New South Wales
+1987,324.6,Manufacturing,New South Wales
+1988,343.7,Manufacturing,New South Wales
+1989,362.5,Manufacturing,New South Wales
+1990,361.7,Manufacturing,New South Wales
+1991,339.7,Manufacturing,New South Wales
+1992,345.2,Manufacturing,New South Wales
+1993,356,Manufacturing,New South Wales
+1994,361.9,Manufacturing,New South Wales
+1995,353.9,Manufacturing,New South Wales
+1996,361.9,Manufacturing,New South Wales
+1997,357.3,Manufacturing,New South Wales
+1998,369.4,Manufacturing,New South Wales
+1999,353.9,Manufacturing,New South Wales
+2000,345.8,Manufacturing,New South Wales
+2001,355.4,Manufacturing,New South Wales
+2002,364.1,Manufacturing,New South Wales
+2003,380.2,Manufacturing,New South Wales
+2004,344.7,Manufacturing,New South Wales
+2005,331,Manufacturing,New South Wales
+2006,351,Manufacturing,New South Wales
+2007,322.5,Manufacturing,New South Wales
+2008,306.6,Manufacturing,New South Wales
+2009,362.2,Manufacturing,New South Wales
+2010,391.5,Manufacturing,New South Wales
+2011,350.1,Manufacturing,New South Wales
+2012,324,Manufacturing,New South Wales
+2013,300.6,Manufacturing,New South Wales
+2014,245.7,Manufacturing,New South Wales
+2015,249.4,Manufacturing,New South Wales
+1973,170.6,Manufacturing,Victoria
+1974,167.2,Manufacturing,Victoria
+1975,166.1,Manufacturing,Victoria
+1976,172.9,Manufacturing,Victoria
+1977,182.6,Manufacturing,Victoria
+1978,186.3,Manufacturing,Victoria
+1979,190.5,Manufacturing,Victoria
+1980,193.8,Manufacturing,Victoria
+1981,189.6,Manufacturing,Victoria
+1982,180.2,Manufacturing,Victoria
+1983,185.5,Manufacturing,Victoria
+1984,190.1,Manufacturing,Victoria
+1985,195.3,Manufacturing,Victoria
+1986,202.8,Manufacturing,Victoria
+1987,217.8,Manufacturing,Victoria
+1988,228.1,Manufacturing,Victoria
+1989,226.3,Manufacturing,Victoria
+1990,223.9,Manufacturing,Victoria
+1991,213.6,Manufacturing,Victoria
+1992,221.5,Manufacturing,Victoria
+1993,227.2,Manufacturing,Victoria
+1994,230.1,Manufacturing,Victoria
+1995,228,Manufacturing,Victoria
+1996,227.1,Manufacturing,Victoria
+1997,238.2,Manufacturing,Victoria
+1998,231.6,Manufacturing,Victoria
+1999,241.6,Manufacturing,Victoria
+2000,223.4,Manufacturing,Victoria
+2001,226.1,Manufacturing,Victoria
+2002,211.4,Manufacturing,Victoria
+2003,211.7,Manufacturing,Victoria
+2004,194.3,Manufacturing,Victoria
+2005,238.8,Manufacturing,Victoria
+2006,248.2,Manufacturing,Victoria
+2007,238.9,Manufacturing,Victoria
+2008,214.4,Manufacturing,Victoria
+2009,222.7,Manufacturing,Victoria
+2010,230.1,Manufacturing,Victoria
+2011,226,Manufacturing,Victoria
+2012,215.1,Manufacturing,Victoria
+2013,222,Manufacturing,Victoria
+2014,199.7,Manufacturing,Victoria
+2015,205.7,Manufacturing,Victoria
+1973,147.7,Manufacturing,Queensland
+1974,156,Manufacturing,Queensland
+1975,165.3,Manufacturing,Queensland
+1976,179.5,Manufacturing,Queensland
+1977,179.9,Manufacturing,Queensland
+1978,171.8,Manufacturing,Queensland
+1979,175.6,Manufacturing,Queensland
+1980,182.1,Manufacturing,Queensland
+1981,186.2,Manufacturing,Queensland
+1982,179,Manufacturing,Queensland
+1983,185.9,Manufacturing,Queensland
+1984,192.9,Manufacturing,Queensland
+1985,191,Manufacturing,Queensland
+1986,196.8,Manufacturing,Queensland
+1987,202.4,Manufacturing,Queensland
+1988,213.4,Manufacturing,Queensland
+1989,213.6,Manufacturing,Queensland
+1990,213.8,Manufacturing,Queensland
+1991,206.1,Manufacturing,Queensland
+1992,220.6,Manufacturing,Queensland
+1993,235.2,Manufacturing,Queensland
+1994,245.2,Manufacturing,Queensland
+1995,255,Manufacturing,Queensland
+1996,265.3,Manufacturing,Queensland
+1997,279.4,Manufacturing,Queensland
+1998,278.9,Manufacturing,Queensland
+1999,283.9,Manufacturing,Queensland
+2000,267.7,Manufacturing,Queensland
+2001,273,Manufacturing,Queensland
+2002,227.6,Manufacturing,Queensland
+2003,173.1,Manufacturing,Queensland
+2004,257,Manufacturing,Queensland
+2005,300.3,Manufacturing,Queensland
+2006,258.9,Manufacturing,Queensland
+2007,253.1,Manufacturing,Queensland
+2008,280.3,Manufacturing,Queensland
+2009,303.3,Manufacturing,Queensland
+2010,324.7,Manufacturing,Queensland
+2011,305.8,Manufacturing,Queensland
+2012,333.1,Manufacturing,Queensland
+2013,315.8,Manufacturing,Queensland
+2014,375.4,Manufacturing,Queensland
+2015,318.7,Manufacturing,Queensland
+1973,83.6,Manufacturing,Western Australia
+1974,86,Manufacturing,Western Australia
+1975,99.7,Manufacturing,Western Australia
+1976,107,Manufacturing,Western Australia
+1977,108.9,Manufacturing,Western Australia
+1978,112.1,Manufacturing,Western Australia
+1979,105.9,Manufacturing,Western Australia
+1980,98.1,Manufacturing,Western Australia
+1981,84.6,Manufacturing,Western Australia
+1982,83.7,Manufacturing,Western Australia
+1983,93,Manufacturing,Western Australia
+1984,108.3,Manufacturing,Western Australia
+1985,106.4,Manufacturing,Western Australia
+1986,108.5,Manufacturing,Western Australia
+1987,116.5,Manufacturing,Western Australia
+1988,126.5,Manufacturing,Western Australia
+1989,135.4,Manufacturing,Western Australia
+1990,141.1,Manufacturing,Western Australia
+1991,138.9,Manufacturing,Western Australia
+1992,146.2,Manufacturing,Western Australia
+1993,154.5,Manufacturing,Western Australia
+1994,157.8,Manufacturing,Western Australia
+1995,160,Manufacturing,Western Australia
+1996,161.4,Manufacturing,Western Australia
+1997,163.3,Manufacturing,Western Australia
+1998,173.3,Manufacturing,Western Australia
+1999,176.6,Manufacturing,Western Australia
+2000,225.4,Manufacturing,Western Australia
+2001,225.7,Manufacturing,Western Australia
+2002,235.6,Manufacturing,Western Australia
+2003,234.6,Manufacturing,Western Australia
+2004,231.8,Manufacturing,Western Australia
+2005,223.1,Manufacturing,Western Australia
+2006,256.7,Manufacturing,Western Australia
+2007,243.7,Manufacturing,Western Australia
+2008,243.5,Manufacturing,Western Australia
+2009,244.5,Manufacturing,Western Australia
+2010,253.3,Manufacturing,Western Australia
+2011,256,Manufacturing,Western Australia
+2012,263.3,Manufacturing,Western Australia
+2013,235.3,Manufacturing,Western Australia
+2014,203.6,Manufacturing,Western Australia
+2015,232,Manufacturing,Western Australia
+1973,70.3,Manufacturing,South Australia
+1974,70.7,Manufacturing,South Australia
+1975,72.4,Manufacturing,South Australia
+1976,71.4,Manufacturing,South Australia
+1977,67,Manufacturing,South Australia
+1978,74.5,Manufacturing,South Australia
+1979,76.7,Manufacturing,South Australia
+1980,69.1,Manufacturing,South Australia
+1981,67.4,Manufacturing,South Australia
+1982,61.6,Manufacturing,South Australia
+1983,62.1,Manufacturing,South Australia
+1984,67.4,Manufacturing,South Australia
+1985,69.7,Manufacturing,South Australia
+1986,70.3,Manufacturing,South Australia
+1987,71.6,Manufacturing,South Australia
+1988,73.3,Manufacturing,South Australia
+1989,73.7,Manufacturing,South Australia
+1990,75.3,Manufacturing,South Australia
+1991,78.5,Manufacturing,South Australia
+1992,77.3,Manufacturing,South Australia
+1993,78.3,Manufacturing,South Australia
+1994,79.8,Manufacturing,South Australia
+1995,80.8,Manufacturing,South Australia
+1996,79.1,Manufacturing,South Australia
+1997,80.8,Manufacturing,South Australia
+1998,78.3,Manufacturing,South Australia
+1999,73.9,Manufacturing,South Australia
+2000,68.4,Manufacturing,South Australia
+2001,68.3,Manufacturing,South Australia
+2002,76.4,Manufacturing,South Australia
+2003,76.8,Manufacturing,South Australia
+2004,74,Manufacturing,South Australia
+2005,77.6,Manufacturing,South Australia
+2006,80,Manufacturing,South Australia
+2007,81.7,Manufacturing,South Australia
+2008,68.4,Manufacturing,South Australia
+2009,70.5,Manufacturing,South Australia
+2010,69.3,Manufacturing,South Australia
+2011,72.8,Manufacturing,South Australia
+2012,68,Manufacturing,South Australia
+2013,65.7,Manufacturing,South Australia
+2014,63,Manufacturing,South Australia
+2015,63.2,Manufacturing,South Australia
+1973,30.3,Manufacturing,Tasmania
+1974,28.9,Manufacturing,Tasmania
+1975,27.7,Manufacturing,Tasmania
+1976,31.3,Manufacturing,Tasmania
+1977,32,Manufacturing,Tasmania
+1978,35.1,Manufacturing,Tasmania
+1979,37,Manufacturing,Tasmania
+1980,35,Manufacturing,Tasmania
+1981,36,Manufacturing,Tasmania
+1982,34,Manufacturing,Tasmania
+1983,33.7,Manufacturing,Tasmania
+1984,35.2,Manufacturing,Tasmania
+1985,35.2,Manufacturing,Tasmania
+1986,34.4,Manufacturing,Tasmania
+1987,38.1,Manufacturing,Tasmania
+1988,39.3,Manufacturing,Tasmania
+1989,39.6,Manufacturing,Tasmania
+1990,40.2,Manufacturing,Tasmania
+1991,38.2,Manufacturing,Tasmania
+1992,37,Manufacturing,Tasmania
+1993,38.5,Manufacturing,Tasmania
+1994,38,Manufacturing,Tasmania
+1995,37.9,Manufacturing,Tasmania
+1996,39.7,Manufacturing,Tasmania
+1997,40.3,Manufacturing,Tasmania
+1998,40.1,Manufacturing,Tasmania
+1999,39.8,Manufacturing,Tasmania
+2000,35.8,Manufacturing,Tasmania
+2001,37.2,Manufacturing,Tasmania
+2002,36.9,Manufacturing,Tasmania
+2003,37.1,Manufacturing,Tasmania
+2004,39.8,Manufacturing,Tasmania
+2005,38.5,Manufacturing,Tasmania
+2006,40.7,Manufacturing,Tasmania
+2007,40.5,Manufacturing,Tasmania
+2008,45.6,Manufacturing,Tasmania
+2009,44.4,Manufacturing,Tasmania
+2010,44.2,Manufacturing,Tasmania
+2011,40.9,Manufacturing,Tasmania
+2012,45.2,Manufacturing,Tasmania
+2013,45.4,Manufacturing,Tasmania
+2014,45.7,Manufacturing,Tasmania
+2015,44.3,Manufacturing,Tasmania
+1973,14.3,Manufacturing,Northern Territory
+1974,15.1,Manufacturing,Northern Territory
+1975,15.3,Manufacturing,Northern Territory
+1976,16.2,Manufacturing,Northern Territory
+1977,16.6,Manufacturing,Northern Territory
+1978,16,Manufacturing,Northern Territory
+1979,16.3,Manufacturing,Northern Territory
+1980,16.8,Manufacturing,Northern Territory
+1981,14.3,Manufacturing,Northern Territory
+1982,15.2,Manufacturing,Northern Territory
+1983,16.4,Manufacturing,Northern Territory
+1984,16.4,Manufacturing,Northern Territory
+1985,15.5,Manufacturing,Northern Territory
+1986,15.1,Manufacturing,Northern Territory
+1987,17.3,Manufacturing,Northern Territory
+1988,16.7,Manufacturing,Northern Territory
+1989,16.3,Manufacturing,Northern Territory
+1990,17.9,Manufacturing,Northern Territory
+1991,18.9,Manufacturing,Northern Territory
+1992,18.9,Manufacturing,Northern Territory
+1993,19.2,Manufacturing,Northern Territory
+1994,19.7,Manufacturing,Northern Territory
+1995,19.8,Manufacturing,Northern Territory
+1996,20.6,Manufacturing,Northern Territory
+1997,20.1,Manufacturing,Northern Territory
+1998,21.4,Manufacturing,Northern Territory
+1999,22.2,Manufacturing,Northern Territory
+2000,21.8,Manufacturing,Northern Territory
+2001,21.7,Manufacturing,Northern Territory
+2002,23,Manufacturing,Northern Territory
+2003,23.1,Manufacturing,Northern Territory
+2004,22.2,Manufacturing,Northern Territory
+2005,22.1,Manufacturing,Northern Territory
+2006,23.3,Manufacturing,Northern Territory
+2007,27.1,Manufacturing,Northern Territory
+2008,21.5,Manufacturing,Northern Territory
+2009,23,Manufacturing,Northern Territory
+2010,24,Manufacturing,Northern Territory
+2011,24.1,Manufacturing,Northern Territory
+2012,23.1,Manufacturing,Northern Territory
+2013,17.8,Manufacturing,Northern Territory
+2014,2.3,Manufacturing,Northern Territory
+2015,1.1,Manufacturing,Northern Territory
+1973,159.5,Electricity generation,New South Wales
+1974,166,Electricity generation,New South Wales
+1975,158.3,Electricity generation,New South Wales
+1976,198.5,Electricity generation,New South Wales
+1977,213.4,Electricity generation,New South Wales
+1978,222.5,Electricity generation,New South Wales
+1979,250.5,Electricity generation,New South Wales
+1980,259.3,Electricity generation,New South Wales
+1981,259.9,Electricity generation,New South Wales
+1982,266.6,Electricity generation,New South Wales
+1983,275.6,Electricity generation,New South Wales
+1984,288.8,Electricity generation,New South Wales
+1985,300.2,Electricity generation,New South Wales
+1986,311.5,Electricity generation,New South Wales
+1987,314.2,Electricity generation,New South Wales
+1988,327.5,Electricity generation,New South Wales
+1989,333.5,Electricity generation,New South Wales
+1990,325.3,Electricity generation,New South Wales
+1991,328.2,Electricity generation,New South Wales
+1992,338.3,Electricity generation,New South Wales
+1993,346.3,Electricity generation,New South Wales
+1994,354,Electricity generation,New South Wales
+1995,371.3,Electricity generation,New South Wales
+1996,380.6,Electricity generation,New South Wales
+1997,378.9,Electricity generation,New South Wales
+1998,386.2,Electricity generation,New South Wales
+1999,393.3,Electricity generation,New South Wales
+2000,426.2,Electricity generation,New South Wales
+2001,429.9,Electricity generation,New South Wales
+2002,442.5,Electricity generation,New South Wales
+2003,463.2,Electricity generation,New South Wales
+2004,457,Electricity generation,New South Wales
+2005,462.4,Electricity generation,New South Wales
+2006,449.9,Electricity generation,New South Wales
+2007,509.9,Electricity generation,New South Wales
+2008,506.8,Electricity generation,New South Wales
+2009,470.1,Electricity generation,New South Wales
+2010,439.2,Electricity generation,New South Wales
+2011,434.4,Electricity generation,New South Wales
+2012,406.7,Electricity generation,New South Wales
+2013,384.9,Electricity generation,New South Wales
+2014,377.2,Electricity generation,New South Wales
+2015,414.1,Electricity generation,New South Wales
+1973,193.4,Electricity generation,Victoria
+1974,200.1,Electricity generation,Victoria
+1975,215.8,Electricity generation,Victoria
+1976,235.6,Electricity generation,Victoria
+1977,234.6,Electricity generation,Victoria
+1978,253.9,Electricity generation,Victoria
+1979,267.7,Electricity generation,Victoria
+1980,281.3,Electricity generation,Victoria
+1981,332.4,Electricity generation,Victoria
+1982,295.1,Electricity generation,Victoria
+1983,288.8,Electricity generation,Victoria
+1984,309.9,Electricity generation,Victoria
+1985,294.6,Electricity generation,Victoria
+1986,325.4,Electricity generation,Victoria
+1987,333.4,Electricity generation,Victoria
+1988,385.7,Electricity generation,Victoria
+1989,377.5,Electricity generation,Victoria
+1990,387.6,Electricity generation,Victoria
+1991,402.8,Electricity generation,Victoria
+1992,382.9,Electricity generation,Victoria
+1993,377,Electricity generation,Victoria
+1994,400,Electricity generation,Victoria
+1995,415.7,Electricity generation,Victoria
+1996,425.9,Electricity generation,Victoria
+1997,485.8,Electricity generation,Victoria
+1998,525.3,Electricity generation,Victoria
+1999,525.4,Electricity generation,Victoria
+2000,530.8,Electricity generation,Victoria
+2001,541.5,Electricity generation,Victoria
+2002,508.4,Electricity generation,Victoria
+2003,524.4,Electricity generation,Victoria
+2004,533.5,Electricity generation,Victoria
+2005,554.8,Electricity generation,Victoria
+2006,539.9,Electricity generation,Victoria
+2007,542.1,Electricity generation,Victoria
+2008,555.7,Electricity generation,Victoria
+2009,549.2,Electricity generation,Victoria
+2010,535.1,Electricity generation,Victoria
+2011,557,Electricity generation,Victoria
+2012,508.1,Electricity generation,Victoria
+2013,500.5,Electricity generation,Victoria
+2014,529.5,Electricity generation,Victoria
+2015,511.1,Electricity generation,Victoria
+1973,64,Electricity generation,Queensland
+1974,71.6,Electricity generation,Queensland
+1975,73.4,Electricity generation,Queensland
+1976,78.7,Electricity generation,Queensland
+1977,92,Electricity generation,Queensland
+1978,92.3,Electricity generation,Queensland
+1979,97.4,Electricity generation,Queensland
+1980,106,Electricity generation,Queensland
+1981,117.3,Electricity generation,Queensland
+1982,132.5,Electricity generation,Queensland
+1983,146.5,Electricity generation,Queensland
+1984,160.1,Electricity generation,Queensland
+1985,157.1,Electricity generation,Queensland
+1986,157.7,Electricity generation,Queensland
+1987,159.2,Electricity generation,Queensland
+1988,166.1,Electricity generation,Queensland
+1989,172.2,Electricity generation,Queensland
+1990,176.3,Electricity generation,Queensland
+1991,186.5,Electricity generation,Queensland
+1992,199.3,Electricity generation,Queensland
+1993,201.6,Electricity generation,Queensland
+1994,219.2,Electricity generation,Queensland
+1995,235.8,Electricity generation,Queensland
+1996,241,Electricity generation,Queensland
+1997,274.5,Electricity generation,Queensland
+1998,288.4,Electricity generation,Queensland
+1999,285.7,Electricity generation,Queensland
+2000,317.1,Electricity generation,Queensland
+2001,334.1,Electricity generation,Queensland
+2002,371.3,Electricity generation,Queensland
+2003,415.5,Electricity generation,Queensland
+2004,457.9,Electricity generation,Queensland
+2005,464.3,Electricity generation,Queensland
+2006,536.8,Electricity generation,Queensland
+2007,477.7,Electricity generation,Queensland
+2008,499.9,Electricity generation,Queensland
+2009,411.4,Electricity generation,Queensland
+2010,361,Electricity generation,Queensland
+2011,396.9,Electricity generation,Queensland
+2012,373.8,Electricity generation,Queensland
+2013,367.4,Electricity generation,Queensland
+2014,418.1,Electricity generation,Queensland
+2015,423.8,Electricity generation,Queensland
+1973,39.2,Electricity generation,Western Australia
+1974,45.1,Electricity generation,Western Australia
+1975,49,Electricity generation,Western Australia
+1976,52.3,Electricity generation,Western Australia
+1977,53.1,Electricity generation,Western Australia
+1978,54.9,Electricity generation,Western Australia
+1979,57.2,Electricity generation,Western Australia
+1980,59.4,Electricity generation,Western Australia
+1981,58.7,Electricity generation,Western Australia
+1982,60.1,Electricity generation,Western Australia
+1983,62.8,Electricity generation,Western Australia
+1984,65,Electricity generation,Western Australia
+1985,67.3,Electricity generation,Western Australia
+1986,71.4,Electricity generation,Western Australia
+1987,80.1,Electricity generation,Western Australia
+1988,89.8,Electricity generation,Western Australia
+1989,99.4,Electricity generation,Western Australia
+1990,102.4,Electricity generation,Western Australia
+1991,102.4,Electricity generation,Western Australia
+1992,102.9,Electricity generation,Western Australia
+1993,109.1,Electricity generation,Western Australia
+1994,116.8,Electricity generation,Western Australia
+1995,122.5,Electricity generation,Western Australia
+1996,127.3,Electricity generation,Western Australia
+1997,133.8,Electricity generation,Western Australia
+1998,126,Electricity generation,Western Australia
+1999,130.2,Electricity generation,Western Australia
+2000,142.2,Electricity generation,Western Australia
+2001,145.2,Electricity generation,Western Australia
+2002,150.7,Electricity generation,Western Australia
+2003,156.7,Electricity generation,Western Australia
+2004,158.8,Electricity generation,Western Australia
+2005,156.1,Electricity generation,Western Australia
+2006,162.7,Electricity generation,Western Australia
+2007,170.3,Electricity generation,Western Australia
+2008,232.6,Electricity generation,Western Australia
+2009,219.7,Electricity generation,Western Australia
+2010,238,Electricity generation,Western Australia
+2011,235.1,Electricity generation,Western Australia
+2012,231,Electricity generation,Western Australia
+2013,242.2,Electricity generation,Western Australia
+2014,260.6,Electricity generation,Western Australia
+2015,280.2,Electricity generation,Western Australia
+1973,46.6,Electricity generation,South Australia
+1974,50.2,Electricity generation,South Australia
+1975,55,Electricity generation,South Australia
+1976,61.5,Electricity generation,South Australia
+1977,60.4,Electricity generation,South Australia
+1978,60,Electricity generation,South Australia
+1979,60.5,Electricity generation,South Australia
+1980,60.9,Electricity generation,South Australia
+1981,64.2,Electricity generation,South Australia
+1982,62.4,Electricity generation,South Australia
+1983,59.4,Electricity generation,South Australia
+1984,64.2,Electricity generation,South Australia
+1985,64.1,Electricity generation,South Australia
+1986,59.9,Electricity generation,South Australia
+1987,62.2,Electricity generation,South Australia
+1988,64.8,Electricity generation,South Australia
+1989,64.6,Electricity generation,South Australia
+1990,53,Electricity generation,South Australia
+1991,58.3,Electricity generation,South Australia
+1992,58.9,Electricity generation,South Australia
+1993,61.5,Electricity generation,South Australia
+1994,57.5,Electricity generation,South Australia
+1995,49.9,Electricity generation,South Australia
+1996,51.9,Electricity generation,South Australia
+1997,56.5,Electricity generation,South Australia
+1998,70,Electricity generation,South Australia
+1999,72.6,Electricity generation,South Australia
+2000,77.5,Electricity generation,South Australia
+2001,77.8,Electricity generation,South Australia
+2002,83.9,Electricity generation,South Australia
+2003,92.9,Electricity generation,South Australia
+2004,85.1,Electricity generation,South Australia
+2005,77,Electricity generation,South Australia
+2006,102.4,Electricity generation,South Australia
+2007,96.9,Electricity generation,South Australia
+2008,92.3,Electricity generation,South Australia
+2009,76.3,Electricity generation,South Australia
+2010,80.6,Electricity generation,South Australia
+2011,71.8,Electricity generation,South Australia
+2012,62.5,Electricity generation,South Australia
+2013,55.9,Electricity generation,South Australia
+2014,57,Electricity generation,South Australia
+2015,66.8,Electricity generation,South Australia
+1973,2.7,Electricity generation,Tasmania
+1974,3.1,Electricity generation,Tasmania
+1975,3.5,Electricity generation,Tasmania
+1976,2.4,Electricity generation,Tasmania
+1977,3.2,Electricity generation,Tasmania
+1978,2.3,Electricity generation,Tasmania
+1979,2.8,Electricity generation,Tasmania
+1980,4,Electricity generation,Tasmania
+1981,5.1,Electricity generation,Tasmania
+1982,5,Electricity generation,Tasmania
+1983,4.9,Electricity generation,Tasmania
+1984,3.9,Electricity generation,Tasmania
+1985,3.1,Electricity generation,Tasmania
+1986,3.1,Electricity generation,Tasmania
+1987,3,Electricity generation,Tasmania
+1988,3.4,Electricity generation,Tasmania
+1989,7.4,Electricity generation,Tasmania
+1990,8.7,Electricity generation,Tasmania
+1991,2.9,Electricity generation,Tasmania
+1992,2.7,Electricity generation,Tasmania
+1993,2.7,Electricity generation,Tasmania
+1994,2.7,Electricity generation,Tasmania
+1995,2.9,Electricity generation,Tasmania
+1996,3,Electricity generation,Tasmania
+1997,3,Electricity generation,Tasmania
+1998,3.3,Electricity generation,Tasmania
+1999,2.2,Electricity generation,Tasmania
+2000,3.8,Electricity generation,Tasmania
+2001,3.8,Electricity generation,Tasmania
+2002,5.2,Electricity generation,Tasmania
+2003,6.1,Electricity generation,Tasmania
+2004,7.1,Electricity generation,Tasmania
+2005,9.8,Electricity generation,Tasmania
+2006,10.2,Electricity generation,Tasmania
+2007,10.9,Electricity generation,Tasmania
+2008,7.4,Electricity generation,Tasmania
+2009,8.6,Electricity generation,Tasmania
+2010,10.8,Electricity generation,Tasmania
+2011,9.7,Electricity generation,Tasmania
+2012,10.4,Electricity generation,Tasmania
+2013,7.2,Electricity generation,Tasmania
+2014,3.7,Electricity generation,Tasmania
+2015,8.2,Electricity generation,Tasmania
+1973,4.2,Electricity generation,Northern Territory
+1974,4.3,Electricity generation,Northern Territory
+1975,4.8,Electricity generation,Northern Territory
+1976,5.2,Electricity generation,Northern Territory
+1977,5.9,Electricity generation,Northern Territory
+1978,5.7,Electricity generation,Northern Territory
+1979,7.3,Electricity generation,Northern Territory
+1980,7.1,Electricity generation,Northern Territory
+1981,7.7,Electricity generation,Northern Territory
+1982,8,Electricity generation,Northern Territory
+1983,8.5,Electricity generation,Northern Territory
+1984,9,Electricity generation,Northern Territory
+1985,9.8,Electricity generation,Northern Territory
+1986,10.5,Electricity generation,Northern Territory
+1987,10.3,Electricity generation,Northern Territory
+1988,10.4,Electricity generation,Northern Territory
+1989,11.4,Electricity generation,Northern Territory
+1990,11.8,Electricity generation,Northern Territory
+1991,11.8,Electricity generation,Northern Territory
+1992,11.5,Electricity generation,Northern Territory
+1993,11.5,Electricity generation,Northern Territory
+1994,12.4,Electricity generation,Northern Territory
+1995,13.9,Electricity generation,Northern Territory
+1996,14.4,Electricity generation,Northern Territory
+1997,14.8,Electricity generation,Northern Territory
+1998,16.5,Electricity generation,Northern Territory
+1999,18.1,Electricity generation,Northern Territory
+2000,15.6,Electricity generation,Northern Territory
+2001,15.8,Electricity generation,Northern Territory
+2002,4.8,Electricity generation,Northern Territory
+2003,6,Electricity generation,Northern Territory
+2004,7,Electricity generation,Northern Territory
+2005,6.3,Electricity generation,Northern Territory
+2006,5.8,Electricity generation,Northern Territory
+2007,16.2,Electricity generation,Northern Territory
+2008,21.3,Electricity generation,Northern Territory
+2009,23.9,Electricity generation,Northern Territory
+2010,22.5,Electricity generation,Northern Territory
+2011,22.7,Electricity generation,Northern Territory
+2012,22.3,Electricity generation,Northern Territory
+2013,23,Electricity generation,Northern Territory
+2014,24.3,Electricity generation,Northern Territory
+2015,23.4,Electricity generation,Northern Territory
+1973,6.2,Construction,New South Wales
+1974,7.3,Construction,New South Wales
+1975,6.7,Construction,New South Wales
+1976,8.1,Construction,New South Wales
+1977,8,Construction,New South Wales
+1978,7.8,Construction,New South Wales
+1979,7.4,Construction,New South Wales
+1980,6.6,Construction,New South Wales
+1981,4.9,Construction,New South Wales
+1982,3.5,Construction,New South Wales
+1983,3.4,Construction,New South Wales
+1984,5,Construction,New South Wales
+1985,7.8,Construction,New South Wales
+1986,6.7,Construction,New South Wales
+1987,7.3,Construction,New South Wales
+1988,7.2,Construction,New South Wales
+1989,7.3,Construction,New South Wales
+1990,7.1,Construction,New South Wales
+1991,6.9,Construction,New South Wales
+1992,6.6,Construction,New South Wales
+1993,6.4,Construction,New South Wales
+1994,6.2,Construction,New South Wales
+1995,6,Construction,New South Wales
+1996,5.8,Construction,New South Wales
+1997,5.6,Construction,New South Wales
+1998,5.4,Construction,New South Wales
+1999,5.3,Construction,New South Wales
+2000,5.1,Construction,New South Wales
+2001,5.2,Construction,New South Wales
+2002,5,Construction,New South Wales
+2003,4.1,Construction,New South Wales
+2004,3.6,Construction,New South Wales
+2005,4.8,Construction,New South Wales
+2006,4.8,Construction,New South Wales
+2007,4.8,Construction,New South Wales
+2008,4.7,Construction,New South Wales
+2009,4.6,Construction,New South Wales
+2010,4.6,Construction,New South Wales
+2011,4.6,Construction,New South Wales
+2012,4.5,Construction,New South Wales
+2013,4.5,Construction,New South Wales
+2014,4.6,Construction,New South Wales
+2015,3.8,Construction,New South Wales
+1973,6,Construction,Victoria
+1974,7.1,Construction,Victoria
+1975,9.2,Construction,Victoria
+1976,12.8,Construction,Victoria
+1977,12.2,Construction,Victoria
+1978,12.7,Construction,Victoria
+1979,9,Construction,Victoria
+1980,6.5,Construction,Victoria
+1981,6.7,Construction,Victoria
+1982,8,Construction,Victoria
+1983,7.9,Construction,Victoria
+1984,7.6,Construction,Victoria
+1985,7.1,Construction,Victoria
+1986,8.5,Construction,Victoria
+1987,9.4,Construction,Victoria
+1988,9.9,Construction,Victoria
+1989,9.8,Construction,Victoria
+1990,7.9,Construction,Victoria
+1991,7.6,Construction,Victoria
+1992,7.4,Construction,Victoria
+1993,7.1,Construction,Victoria
+1994,6.8,Construction,Victoria
+1995,6.6,Construction,Victoria
+1996,6.4,Construction,Victoria
+1997,7.5,Construction,Victoria
+1998,7.4,Construction,Victoria
+1999,7.3,Construction,Victoria
+2000,7.3,Construction,Victoria
+2001,7.3,Construction,Victoria
+2002,7.3,Construction,Victoria
+2003,7.2,Construction,Victoria
+2004,7.1,Construction,Victoria
+2005,5.8,Construction,Victoria
+2006,5.7,Construction,Victoria
+2007,5.7,Construction,Victoria
+2008,5.5,Construction,Victoria
+2009,5.5,Construction,Victoria
+2010,5.4,Construction,Victoria
+2011,5.3,Construction,Victoria
+2012,5.2,Construction,Victoria
+2013,5.2,Construction,Victoria
+2014,5.9,Construction,Victoria
+2015,4.8,Construction,Victoria
+1973,6.8,Construction,Queensland
+1974,6.9,Construction,Queensland
+1975,6.1,Construction,Queensland
+1976,7.4,Construction,Queensland
+1977,8.5,Construction,Queensland
+1978,9.3,Construction,Queensland
+1979,10.9,Construction,Queensland
+1980,12.2,Construction,Queensland
+1981,15.5,Construction,Queensland
+1982,11.2,Construction,Queensland
+1983,10.9,Construction,Queensland
+1984,9,Construction,Queensland
+1985,10,Construction,Queensland
+1986,10.2,Construction,Queensland
+1987,13,Construction,Queensland
+1988,13.3,Construction,Queensland
+1989,13.6,Construction,Queensland
+1990,12.7,Construction,Queensland
+1991,12.2,Construction,Queensland
+1992,11.8,Construction,Queensland
+1993,11.4,Construction,Queensland
+1994,11,Construction,Queensland
+1995,10.6,Construction,Queensland
+1996,10.3,Construction,Queensland
+1997,9.9,Construction,Queensland
+1998,9.5,Construction,Queensland
+1999,9.2,Construction,Queensland
+2000,9.2,Construction,Queensland
+2001,9.4,Construction,Queensland
+2002,9.1,Construction,Queensland
+2003,9.1,Construction,Queensland
+2004,9.4,Construction,Queensland
+2005,7.5,Construction,Queensland
+2006,7.3,Construction,Queensland
+2007,7.4,Construction,Queensland
+2008,7.2,Construction,Queensland
+2009,7.1,Construction,Queensland
+2010,7.1,Construction,Queensland
+2011,7.1,Construction,Queensland
+2012,7.2,Construction,Queensland
+2013,7.2,Construction,Queensland
+2014,7,Construction,Queensland
+2015,7.1,Construction,Queensland
+1973,4.1,Construction,Western Australia
+1974,4,Construction,Western Australia
+1975,3.4,Construction,Western Australia
+1976,3.7,Construction,Western Australia
+1977,3.9,Construction,Western Australia
+1978,4.2,Construction,Western Australia
+1979,5.7,Construction,Western Australia
+1980,6.5,Construction,Western Australia
+1981,5.8,Construction,Western Australia
+1982,6.4,Construction,Western Australia
+1983,5.7,Construction,Western Australia
+1984,4.9,Construction,Western Australia
+1985,4.8,Construction,Western Australia
+1986,4.6,Construction,Western Australia
+1987,4.7,Construction,Western Australia
+1988,5.8,Construction,Western Australia
+1989,5.4,Construction,Western Australia
+1990,5,Construction,Western Australia
+1991,4.8,Construction,Western Australia
+1992,4.7,Construction,Western Australia
+1993,4.5,Construction,Western Australia
+1994,4.4,Construction,Western Australia
+1995,4.2,Construction,Western Australia
+1996,4,Construction,Western Australia
+1997,3.9,Construction,Western Australia
+1998,3.7,Construction,Western Australia
+1999,3.6,Construction,Western Australia
+2000,3.5,Construction,Western Australia
+2001,3.4,Construction,Western Australia
+2002,3.2,Construction,Western Australia
+2003,3.6,Construction,Western Australia
+2004,3.7,Construction,Western Australia
+2005,4.6,Construction,Western Australia
+2006,4.8,Construction,Western Australia
+2007,4.8,Construction,Western Australia
+2008,4.7,Construction,Western Australia
+2009,4.6,Construction,Western Australia
+2010,4.6,Construction,Western Australia
+2011,4.6,Construction,Western Australia
+2012,4.6,Construction,Western Australia
+2013,4.7,Construction,Western Australia
+2014,4.5,Construction,Western Australia
+2015,4.3,Construction,Western Australia
+1973,1.9,Construction,South Australia
+1974,2.2,Construction,South Australia
+1975,2.5,Construction,South Australia
+1976,2.8,Construction,South Australia
+1977,1.9,Construction,South Australia
+1978,2.2,Construction,South Australia
+1979,3.6,Construction,South Australia
+1980,3.1,Construction,South Australia
+1981,4.5,Construction,South Australia
+1982,4,Construction,South Australia
+1983,3.2,Construction,South Australia
+1984,2.5,Construction,South Australia
+1985,2.2,Construction,South Australia
+1986,2.5,Construction,South Australia
+1987,2.6,Construction,South Australia
+1988,2.7,Construction,South Australia
+1989,2.9,Construction,South Australia
+1990,2.4,Construction,South Australia
+1991,2.3,Construction,South Australia
+1992,2.2,Construction,South Australia
+1993,2.1,Construction,South Australia
+1994,2,Construction,South Australia
+1995,2,Construction,South Australia
+1996,1.9,Construction,South Australia
+1997,1.8,Construction,South Australia
+1998,1.8,Construction,South Australia
+1999,1.7,Construction,South Australia
+2000,1.6,Construction,South Australia
+2001,1.7,Construction,South Australia
+2002,1.7,Construction,South Australia
+2003,1.6,Construction,South Australia
+2004,2.1,Construction,South Australia
+2005,1.8,Construction,South Australia
+2006,1.8,Construction,South Australia
+2007,1.7,Construction,South Australia
+2008,1.7,Construction,South Australia
+2009,1.7,Construction,South Australia
+2010,1.7,Construction,South Australia
+2011,1.6,Construction,South Australia
+2012,1.6,Construction,South Australia
+2013,1.6,Construction,South Australia
+2014,1.5,Construction,South Australia
+2015,1.5,Construction,South Australia
+1973,0.7,Construction,Tasmania
+1974,0.7,Construction,Tasmania
+1975,0.8,Construction,Tasmania
+1976,0.8,Construction,Tasmania
+1977,0.7,Construction,Tasmania
+1978,1.1,Construction,Tasmania
+1979,1.4,Construction,Tasmania
+1980,1.4,Construction,Tasmania
+1981,1.2,Construction,Tasmania
+1982,1.1,Construction,Tasmania
+1983,1.2,Construction,Tasmania
+1984,1.2,Construction,Tasmania
+1985,1.5,Construction,Tasmania
+1986,1.2,Construction,Tasmania
+1987,1.2,Construction,Tasmania
+1988,1.4,Construction,Tasmania
+1989,1.1,Construction,Tasmania
+1990,1.1,Construction,Tasmania
+1991,1.1,Construction,Tasmania
+1992,1.1,Construction,Tasmania
+1993,1,Construction,Tasmania
+1994,1,Construction,Tasmania
+1995,0.9,Construction,Tasmania
+1996,0.9,Construction,Tasmania
+1997,0.9,Construction,Tasmania
+1998,0.9,Construction,Tasmania
+1999,0.8,Construction,Tasmania
+2000,0.8,Construction,Tasmania
+2001,0.8,Construction,Tasmania
+2002,0.7,Construction,Tasmania
+2003,1.2,Construction,Tasmania
+2004,1.5,Construction,Tasmania
+2005,1.5,Construction,Tasmania
+2006,1.6,Construction,Tasmania
+2007,1.6,Construction,Tasmania
+2008,1.6,Construction,Tasmania
+2009,1.5,Construction,Tasmania
+2010,1.5,Construction,Tasmania
+2011,1.5,Construction,Tasmania
+2012,1.5,Construction,Tasmania
+2013,1.5,Construction,Tasmania
+2014,1.5,Construction,Tasmania
+2015,1.5,Construction,Tasmania
+1973,0.2,Construction,Northern Territory
+1974,0.7,Construction,Northern Territory
+1975,0.3,Construction,Northern Territory
+1976,0.3,Construction,Northern Territory
+1977,0.3,Construction,Northern Territory
+1978,0.4,Construction,Northern Territory
+1979,0.4,Construction,Northern Territory
+1980,1.4,Construction,Northern Territory
+1981,0.4,Construction,Northern Territory
+1982,0.8,Construction,Northern Territory
+1983,0.9,Construction,Northern Territory
+1984,0.9,Construction,Northern Territory
+1985,1.3,Construction,Northern Territory
+1986,1.2,Construction,Northern Territory
+1987,1.1,Construction,Northern Territory
+1988,1.2,Construction,Northern Territory
+1989,0.9,Construction,Northern Territory
+1990,1,Construction,Northern Territory
+1991,1,Construction,Northern Territory
+1992,0.9,Construction,Northern Territory
+1993,0.9,Construction,Northern Territory
+1994,0.9,Construction,Northern Territory
+1995,0.8,Construction,Northern Territory
+1996,0.8,Construction,Northern Territory
+1997,0.8,Construction,Northern Territory
+1998,0.7,Construction,Northern Territory
+1999,0.7,Construction,Northern Territory
+2000,0.7,Construction,Northern Territory
+2001,0.7,Construction,Northern Territory
+2002,0.6,Construction,Northern Territory
+2003,0.5,Construction,Northern Territory
+2004,0.5,Construction,Northern Territory
+2005,0.4,Construction,Northern Territory
+2006,0.4,Construction,Northern Territory
+2007,0.4,Construction,Northern Territory
+2008,0.4,Construction,Northern Territory
+2009,0.3,Construction,Northern Territory
+2010,0.3,Construction,Northern Territory
+2011,0.3,Construction,Northern Territory
+2012,0.3,Construction,Northern Territory
+2013,0.4,Construction,Northern Territory
+2014,0.5,Construction,Northern Territory
+2015,0.5,Construction,Northern Territory
+1973,239.7,Transport,New South Wales
+1974,246.8,Transport,New South Wales
+1975,248.8,Transport,New South Wales
+1976,259.8,Transport,New South Wales
+1977,275.8,Transport,New South Wales
+1978,276,Transport,New South Wales
+1979,283.9,Transport,New South Wales
+1980,289.9,Transport,New South Wales
+1981,292.8,Transport,New South Wales
+1982,281.6,Transport,New South Wales
+1983,297.3,Transport,New South Wales
+1984,302,Transport,New South Wales
+1985,305,Transport,New South Wales
+1986,306.1,Transport,New South Wales
+1987,321.6,Transport,New South Wales
+1988,333.9,Transport,New South Wales
+1989,332.3,Transport,New South Wales
+1990,334.5,Transport,New South Wales
+1991,342,Transport,New South Wales
+1992,350.1,Transport,New South Wales
+1993,356.9,Transport,New South Wales
+1994,377.1,Transport,New South Wales
+1995,394.9,Transport,New South Wales
+1996,397,Transport,New South Wales
+1997,399.2,Transport,New South Wales
+1998,406.6,Transport,New South Wales
+1999,421.3,Transport,New South Wales
+2000,412.4,Transport,New South Wales
+2001,401,Transport,New South Wales
+2002,418.5,Transport,New South Wales
+2003,438.5,Transport,New South Wales
+2004,450.8,Transport,New South Wales
+2005,456.5,Transport,New South Wales
+2006,471.8,Transport,New South Wales
+2007,483.2,Transport,New South Wales
+2008,479.1,Transport,New South Wales
+2009,498.5,Transport,New South Wales
+2010,504.9,Transport,New South Wales
+2011,506.6,Transport,New South Wales
+2012,513.3,Transport,New South Wales
+2013,511,Transport,New South Wales
+2014,516.4,Transport,New South Wales
+2015,515.7,Transport,New South Wales
+1973,181,Transport,Victoria
+1974,184,Transport,Victoria
+1975,189.1,Transport,Victoria
+1976,198.1,Transport,Victoria
+1977,210.4,Transport,Victoria
+1978,214.5,Transport,Victoria
+1979,213.1,Transport,Victoria
+1980,213.5,Transport,Victoria
+1981,217.5,Transport,Victoria
+1982,214,Transport,Victoria
+1983,218.3,Transport,Victoria
+1984,225.3,Transport,Victoria
+1985,228,Transport,Victoria
+1986,235.9,Transport,Victoria
+1987,246.4,Transport,Victoria
+1988,255.3,Transport,Victoria
+1989,260.2,Transport,Victoria
+1990,248.7,Transport,Victoria
+1991,253.7,Transport,Victoria
+1992,256,Transport,Victoria
+1993,257.8,Transport,Victoria
+1994,267.5,Transport,Victoria
+1995,274.3,Transport,Victoria
+1996,278.4,Transport,Victoria
+1997,283.3,Transport,Victoria
+1998,292.5,Transport,Victoria
+1999,300,Transport,Victoria
+2000,296.2,Transport,Victoria
+2001,310.2,Transport,Victoria
+2002,314.7,Transport,Victoria
+2003,329.8,Transport,Victoria
+2004,332.5,Transport,Victoria
+2005,337.8,Transport,Victoria
+2006,342.5,Transport,Victoria
+2007,338.9,Transport,Victoria
+2008,339.6,Transport,Victoria
+2009,345.2,Transport,Victoria
+2010,351.7,Transport,Victoria
+2011,345.4,Transport,Victoria
+2012,352.9,Transport,Victoria
+2013,363.7,Transport,Victoria
+2014,370.8,Transport,Victoria
+2015,367.1,Transport,Victoria
+1973,94.1,Transport,Queensland
+1974,97.8,Transport,Queensland
+1975,103.5,Transport,Queensland
+1976,111.8,Transport,Queensland
+1977,114.6,Transport,Queensland
+1978,122,Transport,Queensland
+1979,126.6,Transport,Queensland
+1980,130.9,Transport,Queensland
+1981,141,Transport,Queensland
+1982,141.7,Transport,Queensland
+1983,148.6,Transport,Queensland
+1984,155.9,Transport,Queensland
+1985,160.5,Transport,Queensland
+1986,164.8,Transport,Queensland
+1987,172.8,Transport,Queensland
+1988,185.5,Transport,Queensland
+1989,188.7,Transport,Queensland
+1990,191.7,Transport,Queensland
+1991,197.4,Transport,Queensland
+1992,206.3,Transport,Queensland
+1993,218,Transport,Queensland
+1994,236.8,Transport,Queensland
+1995,242.3,Transport,Queensland
+1996,251,Transport,Queensland
+1997,250.3,Transport,Queensland
+1998,247.2,Transport,Queensland
+1999,261.5,Transport,Queensland
+2000,257.5,Transport,Queensland
+2001,261.8,Transport,Queensland
+2002,256.8,Transport,Queensland
+2003,274.5,Transport,Queensland
+2004,283.8,Transport,Queensland
+2005,291.4,Transport,Queensland
+2006,302.8,Transport,Queensland
+2007,319.1,Transport,Queensland
+2008,321.5,Transport,Queensland
+2009,326,Transport,Queensland
+2010,329.7,Transport,Queensland
+2011,344,Transport,Queensland
+2012,347.4,Transport,Queensland
+2013,349.5,Transport,Queensland
+2014,352,Transport,Queensland
+2015,369,Transport,Queensland
+1973,89,Transport,Western Australia
+1974,88.6,Transport,Western Australia
+1975,87,Transport,Western Australia
+1976,98.5,Transport,Western Australia
+1977,100.7,Transport,Western Australia
+1978,99.8,Transport,Western Australia
+1979,97.9,Transport,Western Australia
+1980,99.1,Transport,Western Australia
+1981,93.2,Transport,Western Australia
+1982,97.8,Transport,Western Australia
+1983,94.3,Transport,Western Australia
+1984,99,Transport,Western Australia
+1985,99.7,Transport,Western Australia
+1986,100.6,Transport,Western Australia
+1987,109.1,Transport,Western Australia
+1988,110.1,Transport,Western Australia
+1989,110.6,Transport,Western Australia
+1990,109.9,Transport,Western Australia
+1991,111.8,Transport,Western Australia
+1992,113.6,Transport,Western Australia
+1993,121.9,Transport,Western Australia
+1994,130.5,Transport,Western Australia
+1995,140.5,Transport,Western Australia
+1996,146,Transport,Western Australia
+1997,144.3,Transport,Western Australia
+1998,147.4,Transport,Western Australia
+1999,146.5,Transport,Western Australia
+2000,150.1,Transport,Western Australia
+2001,152.8,Transport,Western Australia
+2002,145,Transport,Western Australia
+2003,151.1,Transport,Western Australia
+2004,155.6,Transport,Western Australia
+2005,161.2,Transport,Western Australia
+2006,168.9,Transport,Western Australia
+2007,174.9,Transport,Western Australia
+2008,179.2,Transport,Western Australia
+2009,179.6,Transport,Western Australia
+2010,192.9,Transport,Western Australia
+2011,210.1,Transport,Western Australia
+2012,217.6,Transport,Western Australia
+2013,225.5,Transport,Western Australia
+2014,230,Transport,Western Australia
+2015,244.4,Transport,Western Australia
+1973,56,Transport,South Australia
+1974,57.8,Transport,South Australia
+1975,61.1,Transport,South Australia
+1976,65.8,Transport,South Australia
+1977,69,Transport,South Australia
+1978,71,Transport,South Australia
+1979,71.4,Transport,South Australia
+1980,71,Transport,South Australia
+1981,69.1,Transport,South Australia
+1982,71.4,Transport,South Australia
+1983,73,Transport,South Australia
+1984,76.2,Transport,South Australia
+1985,77.4,Transport,South Australia
+1986,77.7,Transport,South Australia
+1987,79.3,Transport,South Australia
+1988,83,Transport,South Australia
+1989,82.9,Transport,South Australia
+1990,80.2,Transport,South Australia
+1991,80.9,Transport,South Australia
+1992,83.4,Transport,South Australia
+1993,84.7,Transport,South Australia
+1994,84.2,Transport,South Australia
+1995,84.2,Transport,South Australia
+1996,84.7,Transport,South Australia
+1997,87.1,Transport,South Australia
+1998,88.6,Transport,South Australia
+1999,91.1,Transport,South Australia
+2000,87.9,Transport,South Australia
+2001,89.4,Transport,South Australia
+2002,88.1,Transport,South Australia
+2003,91,Transport,South Australia
+2004,90.6,Transport,South Australia
+2005,92.8,Transport,South Australia
+2006,93.7,Transport,South Australia
+2007,94.8,Transport,South Australia
+2008,96,Transport,South Australia
+2009,96.7,Transport,South Australia
+2010,97.8,Transport,South Australia
+2011,97,Transport,South Australia
+2012,100.1,Transport,South Australia
+2013,99.3,Transport,South Australia
+2014,99.4,Transport,South Australia
+2015,100.6,Transport,South Australia
+1973,18,Transport,Tasmania
+1974,17.9,Transport,Tasmania
+1975,18.8,Transport,Tasmania
+1976,20.1,Transport,Tasmania
+1977,20,Transport,Tasmania
+1978,20.7,Transport,Tasmania
+1979,21.3,Transport,Tasmania
+1980,20.9,Transport,Tasmania
+1981,20.2,Transport,Tasmania
+1982,19.7,Transport,Tasmania
+1983,20.8,Transport,Tasmania
+1984,21.2,Transport,Tasmania
+1985,22.5,Transport,Tasmania
+1986,22.1,Transport,Tasmania
+1987,22.2,Transport,Tasmania
+1988,22.8,Transport,Tasmania
+1989,23,Transport,Tasmania
+1990,22.8,Transport,Tasmania
+1991,22.2,Transport,Tasmania
+1992,23.5,Transport,Tasmania
+1993,23.8,Transport,Tasmania
+1994,24.1,Transport,Tasmania
+1995,23.8,Transport,Tasmania
+1996,24.1,Transport,Tasmania
+1997,24.1,Transport,Tasmania
+1998,24,Transport,Tasmania
+1999,23.9,Transport,Tasmania
+2000,23,Transport,Tasmania
+2001,24,Transport,Tasmania
+2002,27.3,Transport,Tasmania
+2003,28.5,Transport,Tasmania
+2004,29.3,Transport,Tasmania
+2005,31.4,Transport,Tasmania
+2006,30.1,Transport,Tasmania
+2007,30.9,Transport,Tasmania
+2008,29.7,Transport,Tasmania
+2009,29.9,Transport,Tasmania
+2010,27.9,Transport,Tasmania
+2011,25.7,Transport,Tasmania
+2012,25.6,Transport,Tasmania
+2013,24.9,Transport,Tasmania
+2014,24.8,Transport,Tasmania
+2015,24.9,Transport,Tasmania
+1973,7.6,Transport,Northern Territory
+1974,8.2,Transport,Northern Territory
+1975,6.7,Transport,Northern Territory
+1976,7.9,Transport,Northern Territory
+1977,8.1,Transport,Northern Territory
+1978,8.9,Transport,Northern Territory
+1979,10.5,Transport,Northern Territory
+1980,9.8,Transport,Northern Territory
+1981,10.1,Transport,Northern Territory
+1982,10.7,Transport,Northern Territory
+1983,11.7,Transport,Northern Territory
+1984,12.4,Transport,Northern Territory
+1985,13.2,Transport,Northern Territory
+1986,14.9,Transport,Northern Territory
+1987,14.4,Transport,Northern Territory
+1988,14.3,Transport,Northern Territory
+1989,14.6,Transport,Northern Territory
+1990,15.2,Transport,Northern Territory
+1991,16.2,Transport,Northern Territory
+1992,16.7,Transport,Northern Territory
+1993,17.7,Transport,Northern Territory
+1994,19.2,Transport,Northern Territory
+1995,21.6,Transport,Northern Territory
+1996,21.8,Transport,Northern Territory
+1997,22,Transport,Northern Territory
+1998,22.1,Transport,Northern Territory
+1999,22.4,Transport,Northern Territory
+2000,21.9,Transport,Northern Territory
+2001,22,Transport,Northern Territory
+2002,15.5,Transport,Northern Territory
+2003,14.6,Transport,Northern Territory
+2004,15.4,Transport,Northern Territory
+2005,17.2,Transport,Northern Territory
+2006,15.8,Transport,Northern Territory
+2007,16.3,Transport,Northern Territory
+2008,14.8,Transport,Northern Territory
+2009,14.3,Transport,Northern Territory
+2010,18.8,Transport,Northern Territory
+2011,18.4,Transport,Northern Territory
+2012,18.2,Transport,Northern Territory
+2013,18.6,Transport,Northern Territory
+2014,21.2,Transport,Northern Territory
+2015,21.1,Transport,Northern Territory
+1973,31.7,Commercial,New South Wales
+1974,31.9,Commercial,New South Wales
+1975,32.3,Commercial,New South Wales
+1976,33.8,Commercial,New South Wales
+1977,34.5,Commercial,New South Wales
+1978,36.5,Commercial,New South Wales
+1979,37.5,Commercial,New South Wales
+1980,38,Commercial,New South Wales
+1981,38.1,Commercial,New South Wales
+1982,36.8,Commercial,New South Wales
+1983,37.4,Commercial,New South Wales
+1984,38.4,Commercial,New South Wales
+1985,41,Commercial,New South Wales
+1986,42.9,Commercial,New South Wales
+1987,44.9,Commercial,New South Wales
+1988,47.3,Commercial,New South Wales
+1989,50.1,Commercial,New South Wales
+1990,52.4,Commercial,New South Wales
+1991,52.7,Commercial,New South Wales
+1992,53.7,Commercial,New South Wales
+1993,53.9,Commercial,New South Wales
+1994,56.5,Commercial,New South Wales
+1995,61.6,Commercial,New South Wales
+1996,63,Commercial,New South Wales
+1997,67,Commercial,New South Wales
+1998,70.6,Commercial,New South Wales
+1999,72.1,Commercial,New South Wales
+2000,64.4,Commercial,New South Wales
+2001,66.8,Commercial,New South Wales
+2002,77.3,Commercial,New South Wales
+2003,79.2,Commercial,New South Wales
+2004,79.1,Commercial,New South Wales
+2005,80.4,Commercial,New South Wales
+2006,83.6,Commercial,New South Wales
+2007,82.2,Commercial,New South Wales
+2008,83.6,Commercial,New South Wales
+2009,85.3,Commercial,New South Wales
+2010,86.7,Commercial,New South Wales
+2011,86,Commercial,New South Wales
+2012,88.1,Commercial,New South Wales
+2013,88,Commercial,New South Wales
+2014,93.3,Commercial,New South Wales
+2015,94.6,Commercial,New South Wales
+1973,26.5,Commercial,Victoria
+1974,28,Commercial,Victoria
+1975,28.6,Commercial,Victoria
+1976,29.5,Commercial,Victoria
+1977,29.1,Commercial,Victoria
+1978,30.9,Commercial,Victoria
+1979,31.6,Commercial,Victoria
+1980,31.8,Commercial,Victoria
+1981,33.4,Commercial,Victoria
+1982,34.2,Commercial,Victoria
+1983,35.2,Commercial,Victoria
+1984,36.5,Commercial,Victoria
+1985,38.1,Commercial,Victoria
+1986,40,Commercial,Victoria
+1987,41.6,Commercial,Victoria
+1988,43.1,Commercial,Victoria
+1989,46.2,Commercial,Victoria
+1990,47.5,Commercial,Victoria
+1991,48.5,Commercial,Victoria
+1992,50.3,Commercial,Victoria
+1993,50.9,Commercial,Victoria
+1994,54.4,Commercial,Victoria
+1995,56.6,Commercial,Victoria
+1996,58.3,Commercial,Victoria
+1997,59.6,Commercial,Victoria
+1998,59.7,Commercial,Victoria
+1999,61.8,Commercial,Victoria
+2000,68.2,Commercial,Victoria
+2001,69.5,Commercial,Victoria
+2002,77.5,Commercial,Victoria
+2003,77.4,Commercial,Victoria
+2004,77.8,Commercial,Victoria
+2005,77.9,Commercial,Victoria
+2006,82.2,Commercial,Victoria
+2007,82.9,Commercial,Victoria
+2008,85.8,Commercial,Victoria
+2009,89.5,Commercial,Victoria
+2010,92.1,Commercial,Victoria
+2011,92.1,Commercial,Victoria
+2012,93.5,Commercial,Victoria
+2013,93.8,Commercial,Victoria
+2014,99.9,Commercial,Victoria
+2015,101.3,Commercial,Victoria
+1973,8.8,Commercial,Queensland
+1974,9.3,Commercial,Queensland
+1975,9.4,Commercial,Queensland
+1976,9.9,Commercial,Queensland
+1977,10.5,Commercial,Queensland
+1978,10.8,Commercial,Queensland
+1979,12,Commercial,Queensland
+1980,13,Commercial,Queensland
+1981,14,Commercial,Queensland
+1982,13.7,Commercial,Queensland
+1983,13.5,Commercial,Queensland
+1984,14.2,Commercial,Queensland
+1985,15.8,Commercial,Queensland
+1986,17.3,Commercial,Queensland
+1987,18.7,Commercial,Queensland
+1988,20.5,Commercial,Queensland
+1989,21.5,Commercial,Queensland
+1990,22.6,Commercial,Queensland
+1991,23.6,Commercial,Queensland
+1992,24.6,Commercial,Queensland
+1993,25.7,Commercial,Queensland
+1994,28.2,Commercial,Queensland
+1995,30.7,Commercial,Queensland
+1996,32.4,Commercial,Queensland
+1997,34.4,Commercial,Queensland
+1998,35,Commercial,Queensland
+1999,37,Commercial,Queensland
+2000,39.8,Commercial,Queensland
+2001,41.1,Commercial,Queensland
+2002,47.4,Commercial,Queensland
+2003,50.2,Commercial,Queensland
+2004,50.4,Commercial,Queensland
+2005,51.3,Commercial,Queensland
+2006,54.6,Commercial,Queensland
+2007,56.4,Commercial,Queensland
+2008,58,Commercial,Queensland
+2009,57,Commercial,Queensland
+2010,57.8,Commercial,Queensland
+2011,56.7,Commercial,Queensland
+2012,60.7,Commercial,Queensland
+2013,61.2,Commercial,Queensland
+2014,65.6,Commercial,Queensland
+2015,65.5,Commercial,Queensland
+1973,6.5,Commercial,Western Australia
+1974,6.6,Commercial,Western Australia
+1975,7,Commercial,Western Australia
+1976,7.4,Commercial,Western Australia
+1977,7.8,Commercial,Western Australia
+1978,8.2,Commercial,Western Australia
+1979,8.8,Commercial,Western Australia
+1980,8.8,Commercial,Western Australia
+1981,9,Commercial,Western Australia
+1982,9.3,Commercial,Western Australia
+1983,9.3,Commercial,Western Australia
+1984,10,Commercial,Western Australia
+1985,10.1,Commercial,Western Australia
+1986,11.3,Commercial,Western Australia
+1987,12.1,Commercial,Western Australia
+1988,13.5,Commercial,Western Australia
+1989,14.6,Commercial,Western Australia
+1990,15.2,Commercial,Western Australia
+1991,15.4,Commercial,Western Australia
+1992,16.1,Commercial,Western Australia
+1993,17.2,Commercial,Western Australia
+1994,18,Commercial,Western Australia
+1995,18.5,Commercial,Western Australia
+1996,19.1,Commercial,Western Australia
+1997,20,Commercial,Western Australia
+1998,21.2,Commercial,Western Australia
+1999,21.7,Commercial,Western Australia
+2000,21.4,Commercial,Western Australia
+2001,23.2,Commercial,Western Australia
+2002,24,Commercial,Western Australia
+2003,24.5,Commercial,Western Australia
+2004,25.7,Commercial,Western Australia
+2005,26.1,Commercial,Western Australia
+2006,27.5,Commercial,Western Australia
+2007,29.6,Commercial,Western Australia
+2008,29.9,Commercial,Western Australia
+2009,28.9,Commercial,Western Australia
+2010,32,Commercial,Western Australia
+2011,33.3,Commercial,Western Australia
+2012,34.2,Commercial,Western Australia
+2013,37.2,Commercial,Western Australia
+2014,37.5,Commercial,Western Australia
+2015,37.6,Commercial,Western Australia
+1973,6.7,Commercial,South Australia
+1974,7.1,Commercial,South Australia
+1975,7.7,Commercial,South Australia
+1976,8.6,Commercial,South Australia
+1977,9.1,Commercial,South Australia
+1978,8.8,Commercial,South Australia
+1979,8.9,Commercial,South Australia
+1980,9.1,Commercial,South Australia
+1981,8.8,Commercial,South Australia
+1982,10,Commercial,South Australia
+1983,9.1,Commercial,South Australia
+1984,9.7,Commercial,South Australia
+1985,10,Commercial,South Australia
+1986,9.8,Commercial,South Australia
+1987,10.5,Commercial,South Australia
+1988,10.8,Commercial,South Australia
+1989,11.3,Commercial,South Australia
+1990,11.8,Commercial,South Australia
+1991,12.2,Commercial,South Australia
+1992,12.2,Commercial,South Australia
+1993,13,Commercial,South Australia
+1994,13.7,Commercial,South Australia
+1995,13.4,Commercial,South Australia
+1996,13.8,Commercial,South Australia
+1997,14.4,Commercial,South Australia
+1998,15.3,Commercial,South Australia
+1999,15.9,Commercial,South Australia
+2000,17.5,Commercial,South Australia
+2001,18.3,Commercial,South Australia
+2002,20.2,Commercial,South Australia
+2003,20.5,Commercial,South Australia
+2004,20.5,Commercial,South Australia
+2005,20.6,Commercial,South Australia
+2006,21.5,Commercial,South Australia
+2007,21.7,Commercial,South Australia
+2008,22.4,Commercial,South Australia
+2009,22.1,Commercial,South Australia
+2010,20.1,Commercial,South Australia
+2011,19.9,Commercial,South Australia
+2012,21.5,Commercial,South Australia
+2013,23.1,Commercial,South Australia
+2014,24.4,Commercial,South Australia
+2015,24.8,Commercial,South Australia
+1973,3.1,Commercial,Tasmania
+1974,3.2,Commercial,Tasmania
+1975,3.2,Commercial,Tasmania
+1976,3.5,Commercial,Tasmania
+1977,3.6,Commercial,Tasmania
+1978,3.7,Commercial,Tasmania
+1979,3.8,Commercial,Tasmania
+1980,3.9,Commercial,Tasmania
+1981,4,Commercial,Tasmania
+1982,4,Commercial,Tasmania
+1983,4,Commercial,Tasmania
+1984,4,Commercial,Tasmania
+1985,4.2,Commercial,Tasmania
+1986,4.2,Commercial,Tasmania
+1987,4.3,Commercial,Tasmania
+1988,4.3,Commercial,Tasmania
+1989,4.4,Commercial,Tasmania
+1990,4.4,Commercial,Tasmania
+1991,4.5,Commercial,Tasmania
+1992,4.4,Commercial,Tasmania
+1993,4.5,Commercial,Tasmania
+1994,5.1,Commercial,Tasmania
+1995,5.6,Commercial,Tasmania
+1996,5.7,Commercial,Tasmania
+1997,5.8,Commercial,Tasmania
+1998,5.8,Commercial,Tasmania
+1999,6,Commercial,Tasmania
+2000,6.5,Commercial,Tasmania
+2001,6.6,Commercial,Tasmania
+2002,7.6,Commercial,Tasmania
+2003,8,Commercial,Tasmania
+2004,7.1,Commercial,Tasmania
+2005,7.8,Commercial,Tasmania
+2006,8.3,Commercial,Tasmania
+2007,8.4,Commercial,Tasmania
+2008,8.5,Commercial,Tasmania
+2009,8.4,Commercial,Tasmania
+2010,8.8,Commercial,Tasmania
+2011,8.6,Commercial,Tasmania
+2012,8.6,Commercial,Tasmania
+2013,8.6,Commercial,Tasmania
+2014,8.7,Commercial,Tasmania
+2015,8.8,Commercial,Tasmania
+1973,1.3,Commercial,Northern Territory
+1974,1.3,Commercial,Northern Territory
+1975,1.3,Commercial,Northern Territory
+1976,1.4,Commercial,Northern Territory
+1977,1.5,Commercial,Northern Territory
+1978,1.6,Commercial,Northern Territory
+1979,1.9,Commercial,Northern Territory
+1980,2,Commercial,Northern Territory
+1981,2.2,Commercial,Northern Territory
+1982,2.2,Commercial,Northern Territory
+1983,2.1,Commercial,Northern Territory
+1984,2.3,Commercial,Northern Territory
+1985,2.4,Commercial,Northern Territory
+1986,2.5,Commercial,Northern Territory
+1987,2.6,Commercial,Northern Territory
+1988,2.6,Commercial,Northern Territory
+1989,2.9,Commercial,Northern Territory
+1990,2.9,Commercial,Northern Territory
+1991,3,Commercial,Northern Territory
+1992,3.1,Commercial,Northern Territory
+1993,3.1,Commercial,Northern Territory
+1994,3.3,Commercial,Northern Territory
+1995,3.4,Commercial,Northern Territory
+1996,3.6,Commercial,Northern Territory
+1997,3.9,Commercial,Northern Territory
+1998,4,Commercial,Northern Territory
+1999,4,Commercial,Northern Territory
+2000,5.6,Commercial,Northern Territory
+2001,5.3,Commercial,Northern Territory
+2002,6.4,Commercial,Northern Territory
+2003,6.4,Commercial,Northern Territory
+2004,6.3,Commercial,Northern Territory
+2005,6.2,Commercial,Northern Territory
+2006,6.5,Commercial,Northern Territory
+2007,6.7,Commercial,Northern Territory
+2008,6.9,Commercial,Northern Territory
+2009,7.7,Commercial,Northern Territory
+2010,6.3,Commercial,Northern Territory
+2011,6.7,Commercial,Northern Territory
+2012,6.3,Commercial,Northern Territory
+2013,9,Commercial,Northern Territory
+2014,6.6,Commercial,Northern Territory
+2015,6.7,Commercial,Northern Territory
+1973,70.1,Residential,New South Wales
+1974,74.9,Residential,New South Wales
+1975,76.1,Residential,New South Wales
+1976,79.5,Residential,New South Wales
+1977,78.8,Residential,New South Wales
+1978,82,Residential,New South Wales
+1979,78.5,Residential,New South Wales
+1980,78.6,Residential,New South Wales
+1981,81,Residential,New South Wales
+1982,80.6,Residential,New South Wales
+1983,81.9,Residential,New South Wales
+1984,84.1,Residential,New South Wales
+1985,88.2,Residential,New South Wales
+1986,90.4,Residential,New South Wales
+1987,91.5,Residential,New South Wales
+1988,91.8,Residential,New South Wales
+1989,97.8,Residential,New South Wales
+1990,100.7,Residential,New South Wales
+1991,102.3,Residential,New South Wales
+1992,106.4,Residential,New South Wales
+1993,106.4,Residential,New South Wales
+1994,109.3,Residential,New South Wales
+1995,111.8,Residential,New South Wales
+1996,115.3,Residential,New South Wales
+1997,116.7,Residential,New South Wales
+1998,119,Residential,New South Wales
+1999,122,Residential,New South Wales
+2000,123.7,Residential,New South Wales
+2001,112.6,Residential,New South Wales
+2002,126.2,Residential,New South Wales
+2003,126.7,Residential,New South Wales
+2004,124.2,Residential,New South Wales
+2005,125.3,Residential,New South Wales
+2006,126.8,Residential,New South Wales
+2007,127.6,Residential,New South Wales
+2008,130.8,Residential,New South Wales
+2009,134,Residential,New South Wales
+2010,137,Residential,New South Wales
+2011,135.5,Residential,New South Wales
+2012,135.3,Residential,New South Wales
+2013,129.3,Residential,New South Wales
+2014,128.8,Residential,New South Wales
+2015,129.2,Residential,New South Wales
+1973,89.6,Residential,Victoria
+1974,97.1,Residential,Victoria
+1975,95,Residential,Victoria
+1976,102.1,Residential,Victoria
+1977,102.5,Residential,Victoria
+1978,105.6,Residential,Victoria
+1979,101.9,Residential,Victoria
+1980,102.6,Residential,Victoria
+1981,108.4,Residential,Victoria
+1982,109.2,Residential,Victoria
+1983,109.9,Residential,Victoria
+1984,110.2,Residential,Victoria
+1985,110.8,Residential,Victoria
+1986,115.7,Residential,Victoria
+1987,111.5,Residential,Victoria
+1988,113.7,Residential,Victoria
+1989,124.2,Residential,Victoria
+1990,124.2,Residential,Victoria
+1991,127.5,Residential,Victoria
+1992,131.3,Residential,Victoria
+1993,127.6,Residential,Victoria
+1994,135.2,Residential,Victoria
+1995,141.8,Residential,Victoria
+1996,143.2,Residential,Victoria
+1997,145.9,Residential,Victoria
+1998,143.5,Residential,Victoria
+1999,145.3,Residential,Victoria
+2000,147.7,Residential,Victoria
+2001,148.8,Residential,Victoria
+2002,151.7,Residential,Victoria
+2003,151.5,Residential,Victoria
+2004,150,Residential,Victoria
+2005,154.3,Residential,Victoria
+2006,156.5,Residential,Victoria
+2007,157.5,Residential,Victoria
+2008,159.1,Residential,Victoria
+2009,160.8,Residential,Victoria
+2010,162.9,Residential,Victoria
+2011,161.9,Residential,Victoria
+2012,164.3,Residential,Victoria
+2013,164,Residential,Victoria
+2014,170,Residential,Victoria
+2015,170.9,Residential,Victoria
+1973,22.6,Residential,Queensland
+1974,23.3,Residential,Queensland
+1975,23.3,Residential,Queensland
+1976,23.9,Residential,Queensland
+1977,25.1,Residential,Queensland
+1978,25.9,Residential,Queensland
+1979,26.5,Residential,Queensland
+1980,26.4,Residential,Queensland
+1981,27,Residential,Queensland
+1982,27,Residential,Queensland
+1983,27.3,Residential,Queensland
+1984,28,Residential,Queensland
+1985,28.6,Residential,Queensland
+1986,29.2,Residential,Queensland
+1987,30.4,Residential,Queensland
+1988,31.5,Residential,Queensland
+1989,33.4,Residential,Queensland
+1990,34.5,Residential,Queensland
+1991,35.3,Residential,Queensland
+1992,37.2,Residential,Queensland
+1993,38.1,Residential,Queensland
+1994,39.3,Residential,Queensland
+1995,39.5,Residential,Queensland
+1996,40.8,Residential,Queensland
+1997,42.3,Residential,Queensland
+1998,43.1,Residential,Queensland
+1999,44.1,Residential,Queensland
+2000,45.5,Residential,Queensland
+2001,45.9,Residential,Queensland
+2002,49.5,Residential,Queensland
+2003,51.3,Residential,Queensland
+2004,51.9,Residential,Queensland
+2005,52.4,Residential,Queensland
+2006,54.3,Residential,Queensland
+2007,55.8,Residential,Queensland
+2008,57.1,Residential,Queensland
+2009,58.4,Residential,Queensland
+2010,60.1,Residential,Queensland
+2011,59.9,Residential,Queensland
+2012,60.8,Residential,Queensland
+2013,59.6,Residential,Queensland
+2014,58.5,Residential,Queensland
+2015,57.1,Residential,Queensland
+1973,18.5,Residential,Western Australia
+1974,18.7,Residential,Western Australia
+1975,19,Residential,Western Australia
+1976,19.6,Residential,Western Australia
+1977,19.7,Residential,Western Australia
+1978,20.8,Residential,Western Australia
+1979,20.9,Residential,Western Australia
+1980,21.4,Residential,Western Australia
+1981,21.2,Residential,Western Australia
+1982,20.8,Residential,Western Australia
+1983,20.9,Residential,Western Australia
+1984,21.8,Residential,Western Australia
+1985,21.7,Residential,Western Australia
+1986,22.6,Residential,Western Australia
+1987,22.5,Residential,Western Australia
+1988,23.4,Residential,Western Australia
+1989,24.7,Residential,Western Australia
+1990,25.7,Residential,Western Australia
+1991,26.3,Residential,Western Australia
+1992,27.3,Residential,Western Australia
+1993,28.2,Residential,Western Australia
+1994,29.3,Residential,Western Australia
+1995,29.6,Residential,Western Australia
+1996,30.2,Residential,Western Australia
+1997,31.6,Residential,Western Australia
+1998,32.1,Residential,Western Australia
+1999,32.6,Residential,Western Australia
+2000,33.1,Residential,Western Australia
+2001,34.3,Residential,Western Australia
+2002,34.7,Residential,Western Australia
+2003,34,Residential,Western Australia
+2004,33.7,Residential,Western Australia
+2005,34,Residential,Western Australia
+2006,36.2,Residential,Western Australia
+2007,37,Residential,Western Australia
+2008,36.6,Residential,Western Australia
+2009,36.7,Residential,Western Australia
+2010,40.4,Residential,Western Australia
+2011,42,Residential,Western Australia
+2012,41,Residential,Western Australia
+2013,42.1,Residential,Western Australia
+2014,46.3,Residential,Western Australia
+2015,47.3,Residential,Western Australia
+1973,18.6,Residential,South Australia
+1974,19.8,Residential,South Australia
+1975,20.4,Residential,South Australia
+1976,21.7,Residential,South Australia
+1977,21.5,Residential,South Australia
+1978,22.8,Residential,South Australia
+1979,21.4,Residential,South Australia
+1980,21.3,Residential,South Australia
+1981,22.2,Residential,South Australia
+1982,22.6,Residential,South Australia
+1983,22.5,Residential,South Australia
+1984,23.9,Residential,South Australia
+1985,24.4,Residential,South Australia
+1986,25.1,Residential,South Australia
+1987,25.1,Residential,South Australia
+1988,25.5,Residential,South Australia
+1989,26.7,Residential,South Australia
+1990,27,Residential,South Australia
+1991,27.4,Residential,South Australia
+1992,28.7,Residential,South Australia
+1993,27.8,Residential,South Australia
+1994,29.1,Residential,South Australia
+1995,29.1,Residential,South Australia
+1996,30,Residential,South Australia
+1997,30.4,Residential,South Australia
+1998,30.8,Residential,South Australia
+1999,31.2,Residential,South Australia
+2000,31.9,Residential,South Australia
+2001,29.3,Residential,South Australia
+2002,31.9,Residential,South Australia
+2003,33.7,Residential,South Australia
+2004,33.7,Residential,South Australia
+2005,34.4,Residential,South Australia
+2006,35.2,Residential,South Australia
+2007,35.5,Residential,South Australia
+2008,35.9,Residential,South Australia
+2009,36.1,Residential,South Australia
+2010,36.5,Residential,South Australia
+2011,37.3,Residential,South Australia
+2012,37.3,Residential,South Australia
+2013,36.8,Residential,South Australia
+2014,36.8,Residential,South Australia
+2015,37.1,Residential,South Australia
+1973,10.9,Residential,Tasmania
+1974,11.5,Residential,Tasmania
+1975,11.6,Residential,Tasmania
+1976,12.2,Residential,Tasmania
+1977,12.1,Residential,Tasmania
+1978,12.1,Residential,Tasmania
+1979,11.4,Residential,Tasmania
+1980,11.1,Residential,Tasmania
+1981,11.4,Residential,Tasmania
+1982,11.5,Residential,Tasmania
+1983,11.9,Residential,Tasmania
+1984,12.4,Residential,Tasmania
+1985,12.9,Residential,Tasmania
+1986,13.4,Residential,Tasmania
+1987,13.4,Residential,Tasmania
+1988,13.6,Residential,Tasmania
+1989,13.6,Residential,Tasmania
+1990,13.7,Residential,Tasmania
+1991,13.7,Residential,Tasmania
+1992,14.1,Residential,Tasmania
+1993,14.1,Residential,Tasmania
+1994,14,Residential,Tasmania
+1995,14.1,Residential,Tasmania
+1996,14.2,Residential,Tasmania
+1997,14,Residential,Tasmania
+1998,13.7,Residential,Tasmania
+1999,13.9,Residential,Tasmania
+2000,13.7,Residential,Tasmania
+2001,15.8,Residential,Tasmania
+2002,14.8,Residential,Tasmania
+2003,15.1,Residential,Tasmania
+2004,15,Residential,Tasmania
+2005,14.9,Residential,Tasmania
+2006,14.7,Residential,Tasmania
+2007,14.8,Residential,Tasmania
+2008,14.7,Residential,Tasmania
+2009,14.9,Residential,Tasmania
+2010,14.5,Residential,Tasmania
+2011,14.5,Residential,Tasmania
+2012,14.5,Residential,Tasmania
+2013,14,Residential,Tasmania
+2014,13.8,Residential,Tasmania
+2015,13.8,Residential,Tasmania
+1973,1.1,Residential,Northern Territory
+1974,1.1,Residential,Northern Territory
+1975,1.1,Residential,Northern Territory
+1976,1.1,Residential,Northern Territory
+1977,1.2,Residential,Northern Territory
+1978,1.3,Residential,Northern Territory
+1979,1.4,Residential,Northern Territory
+1980,1.5,Residential,Northern Territory
+1981,1.5,Residential,Northern Territory
+1982,1.5,Residential,Northern Territory
+1983,1.6,Residential,Northern Territory
+1984,1.7,Residential,Northern Territory
+1985,1.8,Residential,Northern Territory
+1986,1.8,Residential,Northern Territory
+1987,1.9,Residential,Northern Territory
+1988,2,Residential,Northern Territory
+1989,2,Residential,Northern Territory
+1990,2,Residential,Northern Territory
+1991,2.1,Residential,Northern Territory
+1992,2.2,Residential,Northern Territory
+1993,2.3,Residential,Northern Territory
+1994,2.3,Residential,Northern Territory
+1995,2.4,Residential,Northern Territory
+1996,2.5,Residential,Northern Territory
+1997,2.6,Residential,Northern Territory
+1998,2.4,Residential,Northern Territory
+1999,2.7,Residential,Northern Territory
+2000,2.3,Residential,Northern Territory
+2001,2.3,Residential,Northern Territory
+2002,2.8,Residential,Northern Territory
+2003,2.7,Residential,Northern Territory
+2004,2.5,Residential,Northern Territory
+2005,2.7,Residential,Northern Territory
+2006,2.8,Residential,Northern Territory
+2007,3,Residential,Northern Territory
+2008,3.2,Residential,Northern Territory
+2009,3.3,Residential,Northern Territory
+2010,2.7,Residential,Northern Territory
+2011,2.3,Residential,Northern Territory
+2012,2.1,Residential,Northern Territory
+2013,2.2,Residential,Northern Territory
+2014,2.1,Residential,Northern Territory
+2015,1.9,Residential,Northern Territory
+1973,19.3,Other,New South Wales
+1974,18.4,Other,New South Wales
+1975,17,Other,New South Wales
+1976,19.6,Other,New South Wales
+1977,18.2,Other,New South Wales
+1978,18.1,Other,New South Wales
+1979,19.4,Other,New South Wales
+1980,18.3,Other,New South Wales
+1981,18.5,Other,New South Wales
+1982,17.2,Other,New South Wales
+1983,19.4,Other,New South Wales
+1984,18.9,Other,New South Wales
+1985,19.8,Other,New South Wales
+1986,21,Other,New South Wales
+1987,19.9,Other,New South Wales
+1988,20.9,Other,New South Wales
+1989,24,Other,New South Wales
+1990,23,Other,New South Wales
+1991,22.9,Other,New South Wales
+1992,23.6,Other,New South Wales
+1993,24.9,Other,New South Wales
+1994,22.8,Other,New South Wales
+1995,23.2,Other,New South Wales
+1996,27.1,Other,New South Wales
+1997,25.4,Other,New South Wales
+1998,24.2,Other,New South Wales
+1999,25.7,Other,New South Wales
+2000,20.6,Other,New South Wales
+2001,20.6,Other,New South Wales
+2002,19,Other,New South Wales
+2003,20.1,Other,New South Wales
+2004,20.2,Other,New South Wales
+2005,21.1,Other,New South Wales
+2006,16.6,Other,New South Wales
+2007,16.3,Other,New South Wales
+2008,17.7,Other,New South Wales
+2009,18.1,Other,New South Wales
+2010,18.2,Other,New South Wales
+2011,15.2,Other,New South Wales
+2012,21.4,Other,New South Wales
+2013,16.5,Other,New South Wales
+2014,16.2,Other,New South Wales
+2015,15.2,Other,New South Wales
+1973,20.4,Other,Victoria
+1974,19.6,Other,Victoria
+1975,19.1,Other,Victoria
+1976,19.7,Other,Victoria
+1977,21.5,Other,Victoria
+1978,21.5,Other,Victoria
+1979,23.2,Other,Victoria
+1980,20.6,Other,Victoria
+1981,21.4,Other,Victoria
+1982,22,Other,Victoria
+1983,20.9,Other,Victoria
+1984,20.7,Other,Victoria
+1985,20.1,Other,Victoria
+1986,18.7,Other,Victoria
+1987,19.1,Other,Victoria
+1988,19.1,Other,Victoria
+1989,19.4,Other,Victoria
+1990,16.7,Other,Victoria
+1991,16.7,Other,Victoria
+1992,18.6,Other,Victoria
+1993,21.2,Other,Victoria
+1994,22.9,Other,Victoria
+1995,23.5,Other,Victoria
+1996,23.7,Other,Victoria
+1997,24.5,Other,Victoria
+1998,24.5,Other,Victoria
+1999,26,Other,Victoria
+2000,20.9,Other,Victoria
+2001,21.8,Other,Victoria
+2002,20.5,Other,Victoria
+2003,20.3,Other,Victoria
+2004,20.7,Other,Victoria
+2005,20.3,Other,Victoria
+2006,20.8,Other,Victoria
+2007,21.7,Other,Victoria
+2008,18.6,Other,Victoria
+2009,19.8,Other,Victoria
+2010,18.5,Other,Victoria
+2011,17.5,Other,Victoria
+2012,14.5,Other,Victoria
+2013,10.4,Other,Victoria
+2014,8.6,Other,Victoria
+2015,10.3,Other,Victoria
+1973,8.1,Other,Queensland
+1974,8,Other,Queensland
+1975,8.8,Other,Queensland
+1976,9.2,Other,Queensland
+1977,9.2,Other,Queensland
+1978,9.3,Other,Queensland
+1979,9.2,Other,Queensland
+1980,8.6,Other,Queensland
+1981,9.4,Other,Queensland
+1982,8.8,Other,Queensland
+1983,9.7,Other,Queensland
+1984,9.9,Other,Queensland
+1985,10.2,Other,Queensland
+1986,10.3,Other,Queensland
+1987,10.6,Other,Queensland
+1988,11.1,Other,Queensland
+1989,12.4,Other,Queensland
+1990,12.8,Other,Queensland
+1991,13.8,Other,Queensland
+1992,15.6,Other,Queensland
+1993,17.8,Other,Queensland
+1994,20,Other,Queensland
+1995,19.6,Other,Queensland
+1996,21.8,Other,Queensland
+1997,21.7,Other,Queensland
+1998,22.3,Other,Queensland
+1999,26.4,Other,Queensland
+2000,16.3,Other,Queensland
+2001,20,Other,Queensland
+2002,19.8,Other,Queensland
+2003,21.7,Other,Queensland
+2004,17.9,Other,Queensland
+2005,19.5,Other,Queensland
+2006,21.5,Other,Queensland
+2007,22.3,Other,Queensland
+2008,22.6,Other,Queensland
+2009,24,Other,Queensland
+2010,20.9,Other,Queensland
+2011,21.1,Other,Queensland
+2012,19.9,Other,Queensland
+2013,19.9,Other,Queensland
+2014,15.8,Other,Queensland
+2015,8.9,Other,Queensland
+1973,5.4,Other,Western Australia
+1974,4.7,Other,Western Australia
+1975,5.3,Other,Western Australia
+1976,5.2,Other,Western Australia
+1977,5.4,Other,Western Australia
+1978,5.4,Other,Western Australia
+1979,5.4,Other,Western Australia
+1980,5.1,Other,Western Australia
+1981,5.8,Other,Western Australia
+1982,5.2,Other,Western Australia
+1983,5.4,Other,Western Australia
+1984,5.8,Other,Western Australia
+1985,5.7,Other,Western Australia
+1986,5.9,Other,Western Australia
+1987,6.4,Other,Western Australia
+1988,7.1,Other,Western Australia
+1989,6.6,Other,Western Australia
+1990,5.8,Other,Western Australia
+1991,6.9,Other,Western Australia
+1992,8.1,Other,Western Australia
+1993,8.8,Other,Western Australia
+1994,10.5,Other,Western Australia
+1995,11.7,Other,Western Australia
+1996,11.7,Other,Western Australia
+1997,12.1,Other,Western Australia
+1998,12.2,Other,Western Australia
+1999,13.2,Other,Western Australia
+2000,7.7,Other,Western Australia
+2001,7.8,Other,Western Australia
+2002,8.4,Other,Western Australia
+2003,9.9,Other,Western Australia
+2004,7.9,Other,Western Australia
+2005,9,Other,Western Australia
+2006,7.3,Other,Western Australia
+2007,5.8,Other,Western Australia
+2008,6.7,Other,Western Australia
+2009,6.2,Other,Western Australia
+2010,5.9,Other,Western Australia
+2011,5.6,Other,Western Australia
+2012,5.4,Other,Western Australia
+2013,5.4,Other,Western Australia
+2014,5.7,Other,Western Australia
+2015,3.1,Other,Western Australia
+1973,7.3,Other,South Australia
+1974,6.3,Other,South Australia
+1975,6.2,Other,South Australia
+1976,6.4,Other,South Australia
+1977,6.7,Other,South Australia
+1978,7.3,Other,South Australia
+1979,6.6,Other,South Australia
+1980,5.5,Other,South Australia
+1981,6.1,Other,South Australia
+1982,5.3,Other,South Australia
+1983,6.7,Other,South Australia
+1984,6.2,Other,South Australia
+1985,6.4,Other,South Australia
+1986,6.7,Other,South Australia
+1987,6.2,Other,South Australia
+1988,6.3,Other,South Australia
+1989,6.6,Other,South Australia
+1990,5.6,Other,South Australia
+1991,5.7,Other,South Australia
+1992,5.7,Other,South Australia
+1993,6,Other,South Australia
+1994,6.4,Other,South Australia
+1995,6.1,Other,South Australia
+1996,6.2,Other,South Australia
+1997,6.2,Other,South Australia
+1998,6.3,Other,South Australia
+1999,7,Other,South Australia
+2000,5.3,Other,South Australia
+2001,5.5,Other,South Australia
+2002,5.1,Other,South Australia
+2003,6.6,Other,South Australia
+2004,5,Other,South Australia
+2005,4.9,Other,South Australia
+2006,5,Other,South Australia
+2007,5.5,Other,South Australia
+2008,5.8,Other,South Australia
+2009,5.7,Other,South Australia
+2010,5.5,Other,South Australia
+2011,5.2,Other,South Australia
+2012,3.6,Other,South Australia
+2013,3.5,Other,South Australia
+2014,2.7,Other,South Australia
+2015,2.9,Other,South Australia
+1973,1.1,Other,Tasmania
+1974,0.9,Other,Tasmania
+1975,1.1,Other,Tasmania
+1976,1.2,Other,Tasmania
+1977,1.1,Other,Tasmania
+1978,1.4,Other,Tasmania
+1979,1.2,Other,Tasmania
+1980,1.2,Other,Tasmania
+1981,1.1,Other,Tasmania
+1982,1.2,Other,Tasmania
+1983,1.3,Other,Tasmania
+1984,1.4,Other,Tasmania
+1985,1.1,Other,Tasmania
+1986,1.2,Other,Tasmania
+1987,1.1,Other,Tasmania
+1988,0.9,Other,Tasmania
+1989,1.1,Other,Tasmania
+1990,1.1,Other,Tasmania
+1991,1.1,Other,Tasmania
+1992,1.6,Other,Tasmania
+1993,1.4,Other,Tasmania
+1994,1.5,Other,Tasmania
+1995,1.5,Other,Tasmania
+1996,1.4,Other,Tasmania
+1997,1.4,Other,Tasmania
+1998,1.4,Other,Tasmania
+1999,2.7,Other,Tasmania
+2000,1.7,Other,Tasmania
+2001,1.6,Other,Tasmania
+2002,1.6,Other,Tasmania
+2003,1.5,Other,Tasmania
+2004,1.6,Other,Tasmania
+2005,1.6,Other,Tasmania
+2006,1.4,Other,Tasmania
+2007,1.3,Other,Tasmania
+2008,1.2,Other,Tasmania
+2009,0.9,Other,Tasmania
+2010,0.9,Other,Tasmania
+2011,0.9,Other,Tasmania
+2012,0.8,Other,Tasmania
+2013,0.7,Other,Tasmania
+2014,0.8,Other,Tasmania
+2015,0.2,Other,Tasmania
+1973,0.6,Other,Northern Territory
+1974,0.6,Other,Northern Territory
+1975,0.5,Other,Northern Territory
+1976,0.4,Other,Northern Territory
+1977,0.4,Other,Northern Territory
+1978,0.4,Other,Northern Territory
+1979,0.5,Other,Northern Territory
+1980,0.7,Other,Northern Territory
+1981,0.6,Other,Northern Territory
+1982,0.6,Other,Northern Territory
+1983,0.7,Other,Northern Territory
+1984,0.8,Other,Northern Territory
+1985,0.8,Other,Northern Territory
+1986,0.8,Other,Northern Territory
+1987,0.9,Other,Northern Territory
+1988,0.7,Other,Northern Territory
+1989,0.6,Other,Northern Territory
+1990,0.6,Other,Northern Territory
+1991,0.7,Other,Northern Territory
+1992,0.7,Other,Northern Territory
+1993,0.6,Other,Northern Territory
+1994,0.8,Other,Northern Territory
+1995,1,Other,Northern Territory
+1996,1.4,Other,Northern Territory
+1997,0.8,Other,Northern Territory
+1998,1,Other,Northern Territory
+1999,1,Other,Northern Territory
+2000,0.9,Other,Northern Territory
+2001,0.7,Other,Northern Territory
+2002,0.8,Other,Northern Territory
+2003,0.5,Other,Northern Territory
+2004,0.5,Other,Northern Territory
+2005,0.6,Other,Northern Territory
+2006,0.6,Other,Northern Territory
+2007,0.8,Other,Northern Territory
+2008,0.7,Other,Northern Territory
+2009,0.4,Other,Northern Territory
+2010,0.5,Other,Northern Territory
+2011,0.3,Other,Northern Territory
+2012,0.3,Other,Northern Territory
+2013,0.3,Other,Northern Territory
+2014,0.2,Other,Northern Territory
+2015,0.2,Other,Northern Territory
+1973,943,Total,New South Wales
+1974,964.7,Total,New South Wales
+1975,934,Total,New South Wales
+1976,980.2,Total,New South Wales
+1977,1011.3,Total,New South Wales
+1978,1019.3,Total,New South Wales
+1979,1059,Total,New South Wales
+1980,1060.4,Total,New South Wales
+1981,1077.8,Total,New South Wales
+1982,1002.5,Total,New South Wales
+1983,1045.6,Total,New South Wales
+1984,1080.3,Total,New South Wales
+1985,1108.7,Total,New South Wales
+1986,1137.1,Total,New South Wales
+1987,1143.3,Total,New South Wales
+1988,1194.2,Total,New South Wales
+1989,1230.4,Total,New South Wales
+1990,1228.6,Total,New South Wales
+1991,1219.4,Total,New South Wales
+1992,1249.1,Total,New South Wales
+1993,1276.7,Total,New South Wales
+1994,1314.6,Total,New South Wales
+1995,1351.2,Total,New South Wales
+1996,1380.6,Total,New South Wales
+1997,1382,Total,New South Wales
+1998,1413.8,Total,New South Wales
+1999,1426.3,Total,New South Wales
+2000,1450.5,Total,New South Wales
+2001,1445.7,Total,New South Wales
+2002,1510.5,Total,New South Wales
+2003,1574.8,Total,New South Wales
+2004,1545,Total,New South Wales
+2005,1545.9,Total,New South Wales
+2006,1568.9,Total,New South Wales
+2007,1610.7,Total,New South Wales
+2008,1593.2,Total,New South Wales
+2009,1643.1,Total,New South Wales
+2010,1657.2,Total,New South Wales
+2011,1614.6,Total,New South Wales
+2012,1581.1,Total,New South Wales
+2013,1523.2,Total,New South Wales
+2014,1471.8,Total,New South Wales
+2015,1518.2,Total,New South Wales
+1973,710.9,Total,Victoria
+1974,731,Total,Victoria
+1975,752.8,Total,Victoria
+1976,802.1,Total,Victoria
+1977,823.1,Total,Victoria
+1978,857.3,Total,Victoria
+1979,869.4,Total,Victoria
+1980,880.8,Total,Victoria
+1981,939.4,Total,Victoria
+1982,896.5,Total,Victoria
+1983,904.9,Total,Victoria
+1984,936.2,Total,Victoria
+1985,926.4,Total,Victoria
+1986,979.5,Total,Victoria
+1987,1014.5,Total,Victoria
+1988,1090.2,Total,Victoria
+1989,1099.8,Total,Victoria
+1990,1090.9,Total,Victoria
+1991,1108.7,Total,Victoria
+1992,1104.7,Total,Victoria
+1993,1102.5,Total,Victoria
+1994,1152.2,Total,Victoria
+1995,1184.9,Total,Victoria
+1996,1202.7,Total,Victoria
+1997,1286.3,Total,Victoria
+1998,1318.3,Total,Victoria
+1999,1346.3,Total,Victoria
+2000,1337.2,Total,Victoria
+2001,1371.9,Total,Victoria
+2002,1330.6,Total,Victoria
+2003,1364.9,Total,Victoria
+2004,1356.4,Total,Victoria
+2005,1429.5,Total,Victoria
+2006,1433.8,Total,Victoria
+2007,1426.2,Total,Victoria
+2008,1420.9,Total,Victoria
+2009,1433,Total,Victoria
+2010,1436.9,Total,Victoria
+2011,1447.9,Total,Victoria
+2012,1396.5,Total,Victoria
+2013,1409,Total,Victoria
+2014,1431,Total,Victoria
+2015,1416.8,Total,Victoria
+1973,371.3,Total,Queensland
+1974,392.6,Total,Queensland
+1975,410,Total,Queensland
+1976,441.8,Total,Queensland
+1977,461.2,Total,Queensland
+1978,463.2,Total,Queensland
+1979,480.2,Total,Queensland
+1980,502.9,Total,Queensland
+1981,537.2,Total,Queensland
+1982,541.5,Total,Queensland
+1983,571.6,Total,Queensland
+1984,600.3,Total,Queensland
+1985,604.8,Total,Queensland
+1986,620,Total,Queensland
+1987,642.4,Total,Queensland
+1988,678.3,Total,Queensland
+1989,691.8,Total,Queensland
+1990,702,Total,Queensland
+1991,715,Total,Queensland
+1992,758.5,Total,Queensland
+1993,793.2,Total,Queensland
+1994,847.3,Total,Queensland
+1995,882.7,Total,Queensland
+1996,914.1,Total,Queensland
+1997,968.5,Total,Queensland
+1998,983.8,Total,Queensland
+1999,1009.7,Total,Queensland
+2000,1020,Total,Queensland
+2001,1057.8,Total,Queensland
+2002,1064,Total,Queensland
+2003,1081.2,Total,Queensland
+2004,1225.1,Total,Queensland
+2005,1279.6,Total,Queensland
+2006,1329.1,Total,Queensland
+2007,1289.6,Total,Queensland
+2008,1355.2,Total,Queensland
+2009,1297,Total,Queensland
+2010,1277.9,Total,Queensland
+2011,1322.9,Total,Queensland
+2012,1348.2,Total,Queensland
+2013,1331.9,Total,Queensland
+2014,1453.5,Total,Queensland
+2015,1477.7,Total,Queensland
+1973,272.6,Total,Western Australia
+1974,279.6,Total,Western Australia
+1975,296.5,Total,Western Australia
+1976,322.1,Total,Western Australia
+1977,328.4,Total,Western Australia
+1978,336,Total,Western Australia
+1979,334.1,Total,Western Australia
+1980,322,Total,Western Australia
+1981,300.1,Total,Western Australia
+1982,304.6,Total,Western Australia
+1983,313.9,Total,Western Australia
+1984,343.1,Total,Western Australia
+1985,344.8,Total,Western Australia
+1986,358.4,Total,Western Australia
+1987,391.1,Total,Western Australia
+1988,427.7,Total,Western Australia
+1989,473,Total,Western Australia
+1990,488.4,Total,Western Australia
+1991,496.4,Total,Western Australia
+1992,522,Total,Western Australia
+1993,554.1,Total,Western Australia
+1994,592.7,Total,Western Australia
+1995,630.2,Total,Western Australia
+1996,649.6,Total,Western Australia
+1997,662.6,Total,Western Australia
+1998,672.8,Total,Western Australia
+1999,688.5,Total,Western Australia
+2000,708.1,Total,Western Australia
+2001,722.9,Total,Western Australia
+2002,719.9,Total,Western Australia
+2003,730.3,Total,Western Australia
+2004,748.4,Total,Western Australia
+2005,757.1,Total,Western Australia
+2006,820.5,Total,Western Australia
+2007,827.9,Total,Western Australia
+2008,920,Total,Western Australia
+2009,907.2,Total,Western Australia
+2010,973.9,Total,Western Australia
+2011,1011.6,Total,Western Australia
+2012,1048.2,Total,Western Australia
+2013,1059.8,Total,Western Australia
+2014,1047.6,Total,Western Australia
+2015,1120,Total,Western Australia
+1973,215.4,Total,South Australia
+1974,222.8,Total,South Australia
+1975,234.5,Total,South Australia
+1976,249.3,Total,South Australia
+1977,247.7,Total,South Australia
+1978,259.6,Total,South Australia
+1979,264.2,Total,South Australia
+1980,255.7,Total,South Australia
+1981,260,Total,South Australia
+1982,254.6,Total,South Australia
+1983,258,Total,South Australia
+1984,280.2,Total,South Australia
+1985,284.5,Total,South Australia
+1986,284.7,Total,South Australia
+1987,291.1,Total,South Australia
+1988,299.3,Total,South Australia
+1989,301.9,Total,South Australia
+1990,287.4,Total,South Australia
+1991,296.9,Total,South Australia
+1992,300.1,Total,South Australia
+1993,304.8,Total,South Australia
+1994,304.4,Total,South Australia
+1995,296.6,Total,South Australia
+1996,299.7,Total,South Australia
+1997,311.9,Total,South Australia
+1998,327.2,Total,South Australia
+1999,328,Total,South Australia
+2000,330.3,Total,South Australia
+2001,329.2,Total,South Australia
+2002,357.4,Total,South Australia
+2003,371.4,Total,South Australia
+2004,355.6,Total,South Australia
+2005,350.2,Total,South Australia
+2006,375.5,Total,South Australia
+2007,372.5,Total,South Australia
+2008,359.5,Total,South Australia
+2009,344.6,Total,South Australia
+2010,348.3,Total,South Australia
+2011,344.6,Total,South Australia
+2012,335.4,Total,South Australia
+2013,329,Total,South Australia
+2014,326.1,Total,South Australia
+2015,334.1,Total,South Australia
+1973,71.9,Total,Tasmania
+1974,71.3,Total,Tasmania
+1975,71.9,Total,Tasmania
+1976,77,Total,Tasmania
+1977,78.4,Total,Tasmania
+1978,82,Total,Tasmania
+1979,84.6,Total,Tasmania
+1980,83.3,Total,Tasmania
+1981,84.5,Total,Tasmania
+1982,82.3,Total,Tasmania
+1983,83.3,Total,Tasmania
+1984,85,Total,Tasmania
+1985,86.4,Total,Tasmania
+1986,85.4,Total,Tasmania
+1987,89.5,Total,Tasmania
+1988,92,Total,Tasmania
+1989,96.6,Total,Tasmania
+1990,97.6,Total,Tasmania
+1991,89.3,Total,Tasmania
+1992,90.1,Total,Tasmania
+1993,92,Total,Tasmania
+1994,92.4,Total,Tasmania
+1995,93,Total,Tasmania
+1996,94.8,Total,Tasmania
+1997,95.8,Total,Tasmania
+1998,95.7,Total,Tasmania
+1999,95.8,Total,Tasmania
+2000,93.6,Total,Tasmania
+2001,97.2,Total,Tasmania
+2002,99.5,Total,Tasmania
+2003,103.4,Total,Tasmania
+2004,107.4,Total,Tasmania
+2005,111.6,Total,Tasmania
+2006,113.3,Total,Tasmania
+2007,115.6,Total,Tasmania
+2008,115.5,Total,Tasmania
+2009,115.3,Total,Tasmania
+2010,114.8,Total,Tasmania
+2011,108.4,Total,Tasmania
+2012,113.5,Total,Tasmania
+2013,109.4,Total,Tasmania
+2014,106.3,Total,Tasmania
+2015,108.5,Total,Tasmania
+1973,30.1,Total,Northern Territory
+1974,32.8,Total,Northern Territory
+1975,31.2,Total,Northern Territory
+1976,33.6,Total,Northern Territory
+1977,35.1,Total,Northern Territory
+1978,35.7,Total,Northern Territory
+1979,40,Total,Northern Territory
+1980,41.3,Total,Northern Territory
+1981,38.6,Total,Northern Territory
+1982,40.8,Total,Northern Territory
+1983,43.8,Total,Northern Territory
+1984,45.8,Total,Northern Territory
+1985,47,Total,Northern Territory
+1986,49.3,Total,Northern Territory
+1987,51.1,Total,Northern Territory
+1988,51,Total,Northern Territory
+1989,52.5,Total,Northern Territory
+1990,55,Total,Northern Territory
+1991,56.9,Total,Northern Territory
+1992,57.2,Total,Northern Territory
+1993,58.5,Total,Northern Territory
+1994,61.8,Total,Northern Territory
+1995,67,Total,Northern Territory
+1996,69.7,Total,Northern Territory
+1997,70.4,Total,Northern Territory
+1998,73.2,Total,Northern Territory
+1999,76.4,Total,Northern Territory
+2000,73.2,Total,Northern Territory
+2001,73.4,Total,Northern Territory
+2002,56.7,Total,Northern Territory
+2003,58.6,Total,Northern Territory
+2004,61.6,Total,Northern Territory
+2005,73.1,Total,Northern Territory
+2006,82.8,Total,Northern Territory
+2007,96.1,Total,Northern Territory
+2008,95.2,Total,Northern Territory
+2009,98.8,Total,Northern Territory
+2010,96.4,Total,Northern Territory
+2011,97.8,Total,Northern Territory
+2012,99.8,Total,Northern Territory
+2013,99.7,Total,Northern Territory
+2014,90.7,Total,Northern Territory
+2015,90.6,Total,Northern Territory
